@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { render } from "react-dom";
+import { Button } from 'react-bootstrap';
 
 class App extends Component {
   constructor(props) {
@@ -33,7 +34,7 @@ class App extends Component {
 
   render() {
     return (
-      <div className="testing1">
+      <div className="container p-3 my-3 bg-dark text-white">
       <h1>React fetch from Django REST api with PostgresDB</h1>   
       <ul>
         {this.state.data.map(contact => {
@@ -49,6 +50,7 @@ class App extends Component {
           );
         })}
       </ul>
+      <Button variant="primary">Primary</Button>{' '}
       </div>
     );
   }
