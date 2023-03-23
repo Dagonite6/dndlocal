@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'game.apps.GameConfig',
+    'frontend',
     'corsheaders',
     'rest_framework',
     'django.contrib.admin',
@@ -138,5 +139,5 @@ CORS_ORIGIN_WHITELIST = [
 ]
 
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR, "frontend/build/static"),
+    os.path.join(BASE_DIR, "frontend/static/frontend"),
 ]
