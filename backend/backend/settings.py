@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'users.apps.UsersConfig',
+    'character.apps.CharacterConfig',
     'rest_framework',
     'corsheaders',
     'knox',
