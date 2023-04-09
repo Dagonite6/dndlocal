@@ -11,11 +11,11 @@ def stats_validator(stats):
             raise serializers.ValidationError({"stats": "Stats can't be negative or zero"})
         
 def race_validator(race):
-    if race > constants.MAX_RACE:
+    if not 0 <= race < (constants.MAX_RACE + 1):
         raise serializers.ValidationError({"race": "Race overflow."})
     
 def class_validator(char_class):
-    if char_class > constants.MAX_CLASS:
+    if not 0 <= char_class < (constants.MAX_CLASS + 1):
             raise serializers.ValidationError({"class": "Class overflow."})
 
 class CharacterSerializer(serializers.ModelSerializer):
