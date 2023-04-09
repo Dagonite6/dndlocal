@@ -11,13 +11,13 @@ Logout (POST Request): <br>
 <br>
 
 Create character (POST Request): <br>
-```localhost/api/character/create``` <br>
+```localhost/character/create``` <br>
 List of characters (GET request): <br>
-```localhost/api/character/``` <br>
+```localhost/character/``` <br>
 Update character (PUT/PATCH requests): <br>
-```localhost/api/character/<ID>``` <br>
+```localhost/character/<ID>``` <br>
 Delete character (DELETE request): <br>
-```localhost/api/character``` <br>
+```localhost/character``` <br>
 
 **TODO:** <br>
 1. ~~Connect Postgres.~~
