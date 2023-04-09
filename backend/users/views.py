@@ -2,10 +2,6 @@ from .serializers import RegisterSerializer, LoginSerializer
 from rest_framework import generics, status
 from rest_framework.response import Response
 from knox.models import AuthToken
-from rest_framework.permissions import IsAuthenticated
-from rest_framework.views import APIView
-
-from knox.auth import TokenAuthentication
 
 def get_token(user):
     token = AuthToken.objects.create(user)
