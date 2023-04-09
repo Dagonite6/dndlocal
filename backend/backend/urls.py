@@ -4,12 +4,6 @@ from django.conf import settings
 from django.conf.urls.static import static
 from rest_framework.routers import DefaultRouter
 
-# router = DefaultRouter()
-# router.register(r'zalupa', AuthView, basename='uebok')
-
-# urlpatterns = router.urls
-
-
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('auth/', include('users.urls')),

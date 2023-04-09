@@ -10,13 +10,17 @@ def stats_validator(stats):
         if stat <=0 :
             raise serializers.ValidationError({"stats": "Stats can't be negative or zero"})
         
-def race_validator(race):
+def race_validator(race):  
     if not 0 <= race < (constants.MAX_RACE + 1):
-        raise serializers.ValidationError({"race": "Race overflow."})
+        if race == 0:
+            raise serializers.ValidationError({"race": "Empty race"})
+        raise serializers.ValidationError({"race": "Unknown race"})
     
 def class_validator(char_class):
-    if not 0 <= char_class < (constants.MAX_CLASS + 1):
-            raise serializers.ValidationError({"class": "Class overflow."})
+    if not 0 <= char_class < (constants.MAX_RACE + 1):
+        if char_class == 0:
+            raise serializers.ValidationError({"class": "Empty class"})
+        raise serializers.ValidationError({"class": "Unknown class"})
 
 class CharacterSerializer(serializers.ModelSerializer):
     char_class = serializers.IntegerField(validators=[class_validator])
@@ -24,7 +28,7 @@ class CharacterSerializer(serializers.ModelSerializer):
     stats = serializers.ListField(child=serializers.IntegerField(), validators=[stats_validator])
     class Meta:
         model = Character
-        fields = '__all__'
+        fields = ('name', 'experience', 'race', 'char_class', 'stats', 'spells', 'items')
 
 class ListSerializer(serializers.ModelSerializer):   
     class Meta:
