@@ -1,7 +1,7 @@
 # dndlocal
 dndlocal
 
-Reguster User (POST Request): <br>
+Register User (POST Request): <br>
 ```localhost/auth/register/``` <br>
 Login (POST Request): <br>
 ```localhost/auth/login``` <br>
@@ -14,10 +14,12 @@ Create character (POST Request): <br>
 ```localhost/character/create``` <br>
 List of characters (GET request): <br>
 ```localhost/character/``` <br>
+Details of a character (GET request): <br>
+```localhost/character/<ID>``` <br>
 Update character (PUT/PATCH requests): <br>
 ```localhost/character/<ID>``` <br>
 Delete character (DELETE request): <br>
-```localhost/character``` <br>
+```localhost/character<ID>``` <br>
 
 **TODO:** <br>
 1. ~~Connect Postgres.~~
