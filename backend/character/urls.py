@@ -1,7 +1,8 @@
-from django.urls import path, include
-from .views import ListView, CreateView
+from django.urls import path
+from . import views
 
 urlpatterns = [
-    path('', ListView.as_view(), name='List'),
-    path('create/', CreateView.as_view(), name='Create'),
+    path('', views.ListView.as_view(), name='List'), #список персожаней
+    path('create/', views.CreateView.as_view(), name='Create'), #post реквест для создания
+    path('<int:pk>/', views.DetailView.as_view(), name='Details'), #на один эндпоинт у нас get, patch, put и delete реквесты
 ]

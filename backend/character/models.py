@@ -10,8 +10,8 @@ class Character(models.Model):
     race = models.PositiveSmallIntegerField()
     char_class = models.PositiveSmallIntegerField()
     stats = ArrayField(models.PositiveSmallIntegerField(), size=6)
-    spells = ArrayField(models.PositiveSmallIntegerField())
-    items = ArrayField(models.PositiveSmallIntegerField())
+    spells = ArrayField(models.PositiveSmallIntegerField(), default=0)
+    items = ArrayField(models.PositiveSmallIntegerField(), default=0)
 
 class CharacterParams(models.Model):
     character = models.ForeignKey(Character, on_delete=models.CASCADE)

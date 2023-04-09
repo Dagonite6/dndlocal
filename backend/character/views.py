@@ -2,10 +2,10 @@ from rest_framework import generics
 from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
 from knox.auth import TokenAuthentication
-from . serializers import ListSerializer, CreateSerializer
+from . serializers import ListSerializer, CreateSerializer, CharacterSerializer
 from .models import Character
 
-# Create your views here.
+#получаем список персонажей конкретного юзера, в персаж серилизруем не всю инфу а ток ту что надо для первью
 class ListView(generics.ListAPIView):
     authentication_classes = (TokenAuthentication,)
     permission_classes = (IsAuthenticated,)
@@ -13,9 +13,26 @@ class ListView(generics.ListAPIView):
 
     def get_queryset(self):
         user = self.request.user
-        characters = Character.objects.filter(user=user)
-        print(characters)
+        characters = Character.objects.filter(user=user).order_by('id')
         return characters
+
+#get, put, patch and delete методы инхеретим 
+class DetailView(generics.RetrieveUpdateDestroyAPIView):
+    authentication_classes = (TokenAuthentication,)
+    permission_classes = (IsAuthenticated,)
+    serializer_class = CharacterSerializer  
+
+    #превентим возможность любого залогиненоно юзера делать операции над любыми персонажами, а не своими
+    def get_queryset(self):
+        return Character.objects.filter(user=self.request.user).order_by('id')
+
+    #из ссылки тащим айди и получаем инфу по конкретному персонажу
+    def retrieve(self, request, *args, **kwargs):
+        pk = self.kwargs.get('pk')
+        object = Character.objects.get(pk=kwargs['pk'])
+        serializer = CharacterSerializer(object)
+        return Response(serializer.data)
+        
 
 class CreateView(generics.CreateAPIView):
     authentication_classes = (TokenAuthentication,)
@@ -31,31 +48,5 @@ class CreateView(generics.CreateAPIView):
         return Response({
             "character": character
         })
-# POSSIBLE UPGRADE
-# class SnippetDetail(APIView):
-#     """
-#     Retrieve, update or delete a snippet instance.
-#     """
-#     def get_object(self, pk):
-#         try:
-#             return Snippet.objects.get(pk=pk)
-#         except Snippet.DoesNotExist:
-#             raise Http404
 
-#     def get(self, request, pk, format=None):
-#         snippet = self.get_object(pk)
-#         serializer = SnippetSerializer(snippet)
-#         return Response(serializer.data)
-
-#     def put(self, request, pk, format=None):
-#         snippet = self.get_object(pk)
-#         serializer = SnippetSerializer(snippet, data=request.data)
-#         if serializer.is_valid():
-#             serializer.save()
-#             return Response(serializer.data)
-#         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
-
-#     def delete(self, request, pk, format=None):
-#         snippet = self.get_object(pk)
-#         snippet.delete()
-#         return Response(status=status.HTTP_204_NO_CONTENT)
+    
