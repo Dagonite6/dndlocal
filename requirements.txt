@@ -1,4 +1,6 @@
-Django              4.1.7
-django-cors-headers 3.14.0
-djangorestframework 3.14.0
-psycopg2            2.9.5
+Django==4.1.7
+django-cors-headers==3.14.0
+django-rest-knox==4.2.0
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.2.2
+psycopg2==2.9.5
