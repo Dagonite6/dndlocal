@@ -19,7 +19,7 @@ class Character(models.Model):
         created = not self.pk
         super().save(*args,**kwargs)
         if created:
-            CharacterParams.objects.create(user=self)
+            CharacterParams.objects.create(character=self)
 
 class CharacterParams(models.Model):
     character = models.ForeignKey(Character, on_delete=models.CASCADE)
