@@ -1,4 +1,4 @@
-from rest_framework import generics
+from rest_framework import generics, status
 from rest_framework.response import Response
 from rest_framework.permissions import IsAuthenticated
 from knox.auth import TokenAuthentication
@@ -13,7 +13,7 @@ class ListView(generics.ListAPIView):
 
     def get_queryset(self):
         user = self.request.user
-        characters = Character.objects.filter(user=user).order_by('id')
+        characters = Character.objects.filter(user=self.request.user)
         return characters
 
 #get, put, patch and delete методы инхеретим 
@@ -24,12 +24,15 @@ class DetailView(generics.RetrieveUpdateDestroyAPIView):
 
     #превентим возможность любого залогиненоно юзера делать операции над любыми персонажами, а не своими
     def get_queryset(self):
-        return Character.objects.filter(user=self.request.user).order_by('id')
-
+        return Character.objects.filter(user=self.request.user)
+     
     #из ссылки тащим айди и получаем инфу по конкретному персонажу
     def retrieve(self, request, *args, **kwargs):
         pk = self.kwargs.get('pk')
-        object = Character.objects.get(pk=kwargs['pk'])
+        try:
+            object = Character.objects.filter(user=self.request.user).get(pk=kwargs['pk'])
+        except:
+            return Response({"Forbidden": "Unknown ID"}, status=status.HTTP_403_FORBIDDEN)
         serializer = CharacterSerializer(object)
         return Response(serializer.data)
         
