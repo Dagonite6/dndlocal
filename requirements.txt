@@ -1,6 +1,17 @@
+asgiref==3.6.0
+certifi==2022.12.7
+cffi==1.15.1
+cryptography==40.0.1
 Django==4.1.7
 django-cors-headers==3.14.0
 django-rest-knox==4.2.0
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.2.2
+elastic-transport==8.4.0
+elasticsearch==8.7.0
 psycopg2==2.9.5
+pycparser==2.21
+PyJWT==2.6.0
+pytz==2022.7.1
+sqlparse==0.4.3
+urllib3==1.26.15

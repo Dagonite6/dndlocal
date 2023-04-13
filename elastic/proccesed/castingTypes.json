@@ -1,0 +1,26 @@
+{
+    "castingTypes": {
+        "8": "Cone",
+        "9": "Radius",
+        "10": "Line",
+        "1": "Self",
+        "6": "Self in a cone",
+        "11": "Self in a cube",
+        "7": "Self in a radius",
+        "5": "Sight",
+        "4": "Special",
+        "0": "Target",
+        "3": "Touch",
+        "2": "Unlimited"
+    },
+    "schools": {
+        "0": "abjuration",
+        "1": "alteration",
+        "2": "conjuration",
+        "3": "divination",
+        "4": "enchantment",
+        "5": "illusion",
+        "6": "invocation",
+        "7": "necromancy"
+    }
+}
