@@ -3,7 +3,7 @@ from elasticsearch.helpers import bulk
 import json
 
 es = Elasticsearch([{"host": "localhost", "port": 9200, "scheme": "http"}])
-with open("proccesed/proccesedSpells.json", "r") as f:
+with open("pre-proccesing/proccesed/proccesedSpells.json", "r") as f:
     data = json.load(f)
 
 spellsList = data["spells"]

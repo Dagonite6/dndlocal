@@ -148,5 +148,5 @@ for value in data:
         allspells["spells"].append(temp_spell)
 
 
-with open("../proccesed/proccesedSpells.json", "w", encoding="utf-8") as f:
+with open("proccesed/proccesedSpells.json", "w", encoding="utf-8") as f:
     json.dump(allspells, f, ensure_ascii=False, indent=4)

@@ -4,7 +4,7 @@ from pprint import pprint
 with open("sources/classSpells.json", "r") as f:
     data = json.load(f)
 
-with open("../proccesed/indexi.json", "r") as f:
+with open("proccesed/indexi.json", "r") as f:
     indexi = json.load(f)
 
 spells_results = {}
@@ -36,5 +36,5 @@ for spell in spells_results:
                 spells_results[spell][i] = int(index)
             
 
-with open("../proccesed/proccesedClassSpells.json", "w", encoding="utf-8") as f:
+with open("proccesed/proccesedClassSpells.json", "w", encoding="utf-8") as f:
     json.dump(spells_results, f, ensure_ascii=False, indent=4)
