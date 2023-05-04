@@ -1,6 +1,4 @@
 import json
-from pprint import pprint
-import string
 
 with open("sources/spells.json", "r") as f:
     data = json.load(f)
@@ -23,7 +21,7 @@ for value in data:
             "materials": {"en": "", "ru": ""},
             "components": [""],
             "duration": {"en": "", "ru": ""},
-            "classes": {"en": [""], "ru": [""]},
+            "classes": [],
             "source": "",
         }
         for lang in spell:
@@ -32,7 +30,7 @@ for value in data:
                     for name in spell[lang]:
                         match name:
                             case "name":
-                                temp_spell["name"]["en"] = str(spell[lang][name])
+                                temp_spell["name"]["en"] = str(spell[lang][name]).title()
                             case "level":
                                 temp_spell["level"] = int(spell[lang][name])
                             case "text":
@@ -41,7 +39,7 @@ for value in data:
                                 match str(spell[lang][name]).lower():
                                     case "abjuration":
                                         temp_spell["school"] = 0
-                                    case "alteration":
+                                    case "transmutation":
                                         temp_spell["school"] = 1
                                     case "conjuration":
                                         temp_spell["school"] = 2
@@ -137,7 +135,7 @@ for value in data:
                     for name in spell[lang]:
                         match name:
                             case "name":
-                                temp_spell["name"]["ru"] = spell[lang][name]
+                                temp_spell["name"]["ru"] = str(spell[lang][name]).title()
                             case "text":
                                 temp_spell["text"]["ru"] = str(spell[lang][name])
                             case "materials":

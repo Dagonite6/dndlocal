@@ -1,0 +1,2660 @@
+{
+    "Acid Splash": [
+        6,
+        12,
+        3
+    ],
+    "Mage Hand": [
+        6,
+        0,
+        12,
+        7,
+        3
+    ],
+    "Magic Stone": [
+        6,
+        4,
+        7
+    ],
+    "Sword Burst": [
+        6,
+        12,
+        7,
+        3
+    ],
+    "Booming Blade": [
+        6,
+        12,
+        7,
+        3
+    ],
+    "Green-Flame Blade": [
+        6,
+        12,
+        7,
+        3
+    ],
+    "Lightning Lure": [
+        6,
+        12,
+        7,
+        3
+    ],
+    "Ray Of Frost": [
+        6,
+        12,
+        3
+    ],
+    "Frostbite": [
+        6,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Fire Bolt": [
+        6,
+        12,
+        3
+    ],
+    "Dancing Lights": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Mending": [
+        6,
+        0,
+        5,
+        4,
+        12,
+        73,
+        3
+    ],
+    "Thunderclap": [
+        6,
+        0,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Light": [
+        6,
+        0,
+        5,
+        12,
+        3
+    ],
+    "Message": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Resistance": [
+        6,
+        5,
+        4
+    ],
+    "Create Bonfire": [
+        6,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Thorn Whip": [
+        6,
+        4
+    ],
+    "Guidance": [
+        6,
+        5,
+        4
+    ],
+    "Spare The Dying": [
+        6,
+        5
+    ],
+    "Prestidigitation": [
+        6,
+        0,
+        12,
+        7,
+        3
+    ],
+    "Shocking Grasp": [
+        6,
+        12,
+        3
+    ],
+    "Poison Spray": [
+        6,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Tasha'S Caustic Brew": [
+        6,
+        12,
+        3
+    ],
+    "Catapult": [
+        6,
+        12,
+        3
+    ],
+    "Cure Wounds": [
+        6,
+        0,
+        5,
+        52,
+        4,
+        9,
+        11,
+        121,
+        75
+    ],
+    "Disguise Self": [
+        6,
+        0,
+        56,
+        122,
+        12,
+        3
+    ],
+    "Detect Magic": [
+        6,
+        0,
+        5,
+        4,
+        9,
+        11,
+        12,
+        3
+    ],
+    "Faerie Fire": [
+        6,
+        0,
+        53,
+        4,
+        71
+    ],
+    "Identify": [
+        6,
+        0,
+        51,
+        58,
+        3
+    ],
+    "Purify Food And Drink": [
+        6,
+        5,
+        4,
+        9
+    ],
+    "Feather Fall": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Absorb Elements": [
+        6,
+        4,
+        11,
+        12,
+        3
+    ],
+    "Expeditious Retreat": [
+        6,
+        12,
+        7,
+        3
+    ],
+    "Jump": [
+        6,
+        4,
+        11,
+        12,
+        3
+    ],
+    "False Life": [
+        6,
+        59,
+        12,
+        3
+    ],
+    "Alarm": [
+        6,
+        11,
+        3
+    ],
+    "Snare": [
+        6,
+        4,
+        11,
+        3
+    ],
+    "Grease": [
+        6,
+        3
+    ],
+    "Longstrider": [
+        6,
+        0,
+        4,
+        11,
+        3
+    ],
+    "Sanctuary": [
+        6,
+        5,
+        91,
+        94
+    ],
+    "Continual Flame": [
+        6,
+        5,
+        3
+    ],
+    "See Invisibility": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Magic Mouth": [
+        6,
+        0,
+        3
+    ],
+    "Arcane Lock": [
+        6,
+        3
+    ],
+    "Protection From Poison": [
+        6,
+        5,
+        4,
+        9,
+        11
+    ],
+    "Levitate": [
+        6,
+        12,
+        3
+    ],
+    "Magic Weapon": [
+        6,
+        57,
+        58,
+        9,
+        3
+    ],
+    "Lesser Restoration": [
+        6,
+        0,
+        5,
+        52,
+        4,
+        9,
+        91,
+        11,
+        75
+    ],
+    "Skywrite": [
+        6,
+        0,
+        4,
+        3
+    ],
+    "Invisibility": [
+        6,
+        0,
+        45,
+        12,
+        7,
+        3
+    ],
+    "Spider Climb": [
+        6,
+        44,
+        46,
+        48,
+        12,
+        7,
+        3
+    ],
+    "Web": [
+        6,
+        48,
+        12,
+        3
+    ],
+    "Pyrotechnics": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Aid": [
+        6,
+        5,
+        9
+    ],
+    "Blur": [
+        6,
+        43,
+        12,
+        74,
+        3
+    ],
+    "Heat Metal": [
+        6,
+        0,
+        58,
+        4
+    ],
+    "Alter Self": [
+        6,
+        12,
+        3
+    ],
+    "Darkvision": [
+        6,
+        4,
+        11,
+        12,
+        3
+    ],
+    "Rope Trick": [
+        6,
+        122,
+        3
+    ],
+    "Enlarge/Reduce": [
+        6,
+        12,
+        3
+    ],
+    "Enhance Ability": [
+        6,
+        0,
+        5,
+        4,
+        12
+    ],
+    "Revivify": [
+        6,
+        5,
+        52,
+        59,
+        9,
+        75
+    ],
+    "Catnap": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Protection From Energy": [
+        6,
+        5,
+        58,
+        4,
+        43,
+        92,
+        93,
+        11,
+        12,
+        3
+    ],
+    "Intellect Fortress": [
+        6,
+        0,
+        7,
+        3
+    ],
+    "Tiny Servant": [
+        6,
+        3
+    ],
+    "Blink": [
+        6,
+        56,
+        12,
+        71,
+        74,
+        3
+    ],
+    "Glyph Of Warding": [
+        6,
+        0,
+        5,
+        3
+    ],
+    "Water Breathing": [
+        6,
+        4,
+        42,
+        11,
+        12,
+        3
+    ],
+    "Fly": [
+        6,
+        12,
+        7,
+        3
+    ],
+    "Flame Arrows": [
+        6,
+        4,
+        11,
+        12,
+        3
+    ],
+    "Dispel Magic": [
+        6,
+        0,
+        5,
+        56,
+        4,
+        9,
+        91,
+        12,
+        7,
+        3
+    ],
+    "Create Food And Water": [
+        6,
+        5,
+        43,
+        9
+    ],
+    "Elemental Weapon": [
+        6,
+        58,
+        9,
+        74
+    ],
+    "Haste": [
+        6,
+        45,
+        93,
+        111,
+        12,
+        3
+    ],
+    "Water Walk": [
+        6,
+        5,
+        4,
+        42,
+        47,
+        11,
+        12
+    ],
+    "Mordenkainen'S Faithful Hound": [
+        6,
+        3
+    ],
+    "Fabricate": [
+        6,
+        58,
+        3
+    ],
+    "Stone Shape": [
+        6,
+        5,
+        4,
+        46,
+        48,
+        3
+    ],
+    "Arcane Eye": [
+        6,
+        51,
+        3
+    ],
+    "Otiluke'S Resilient Sphere": [
+        6,
+        94,
+        3
+    ],
+    "Summon Construct": [
+        6,
+        3
+    ],
+    "Elemental Bane": [
+        6,
+        4,
+        7,
+        3
+    ],
+    "Freedom Of Movement": [
+        6,
+        0,
+        5,
+        57,
+        4,
+        41,
+        42,
+        44,
+        45,
+        47,
+        91,
+        11
+    ],
+    "Greater Restoration": [
+        6,
+        0,
+        5,
+        4,
+        75
+    ],
+    "Bigby'S Hand": [
+        6,
+        3
+    ],
+    "Wall Of Stone": [
+        6,
+        4,
+        43,
+        46,
+        12,
+        3
+    ],
+    "Animate Objects": [
+        6,
+        0,
+        58,
+        12,
+        3
+    ],
+    "Transmute Rock": [
+        6,
+        4,
+        3
+    ],
+    "Creation": [
+        6,
+        58,
+        12,
+        3
+    ],
+    "Skill Empowerment": [
+        6,
+        0,
+        12,
+        3
+    ],
+    "Healing Word": [
+        61,
+        0,
+        5,
+        4
+    ],
+    "Ray Of Sickness": [
+        61,
+        12,
+        3
+    ],
+    "Melf'S Acid Arrow": [
+        61,
+        47,
+        3
+    ],
+    "Flaming Sphere": [
+        61,
+        53,
+        4,
+        75,
+        3
+    ],
+    "Gaseous Form": [
+        61,
+        48,
+        12,
+        7,
+        3
+    ],
+    "Mass Healing Word": [
+        61,
+        5
+    ],
+    "Death Ward": [
+        61,
+        5,
+        52,
+        59,
+        9
+    ],
+    "Blight": [
+        61,
+        59,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Cloudkill": [
+        61,
+        48,
+        95,
+        12,
+        3
+    ],
+    "Raise Dead": [
+        61,
+        0,
+        5,
+        52,
+        59,
+        9
+    ],
+    "Thunderwave": [
+        62,
+        64,
+        0,
+        55,
+        4,
+        12,
+        3
+    ],
+    "Shield": [
+        62,
+        63,
+        12,
+        74,
+        3
+    ],
+    "Shatter": [
+        62,
+        64,
+        0,
+        55,
+        12,
+        7,
+        3
+    ],
+    "Scorching Ray": [
+        62,
+        53,
+        12,
+        72,
+        3
+    ],
+    "Fireball": [
+        62,
+        53,
+        12,
+        72,
+        3
+    ],
+    "Wind Wall": [
+        62,
+        54,
+        4,
+        11
+    ],
+    "Ice Storm": [
+        62,
+        55,
+        4,
+        41,
+        92,
+        12,
+        3
+    ],
+    "Wall Of Fire": [
+        62,
+        53,
+        58,
+        4,
+        12,
+        72,
+        75,
+        3
+    ],
+    "Cone Of Cold": [
+        62,
+        41,
+        12,
+        74,
+        3
+    ],
+    "Wall Of Force": [
+        62,
+        64,
+        94,
+        3
+    ],
+    "Heroism": [
+        63,
+        0,
+        9
+    ],
+    "Branding Smite": [
+        63,
+        9,
+        74
+    ],
+    "Warding Bond": [
+        63,
+        5
+    ],
+    "Aura Of Vitality": [
+        63,
+        9
+    ],
+    "Conjure Barrage": [
+        63,
+        11
+    ],
+    "Aura Of Purity": [
+        63,
+        9
+    ],
+    "Fire Shield": [
+        63,
+        64,
+        72,
+        3
+    ],
+    "Banishing Smite": [
+        63,
+        9,
+        74
+    ],
+    "Mass Cure Wounds": [
+        63,
+        0,
+        5,
+        52,
+        4
+    ],
+    "Magic Missile": [
+        64,
+        12,
+        3
+    ],
+    "Mirror Image": [
+        64,
+        56,
+        42,
+        12,
+        7,
+        3
+    ],
+    "Hypnotic Pattern": [
+        64,
+        0,
+        94,
+        12,
+        7,
+        3
+    ],
+    "Lightning Bolt": [
+        64,
+        46,
+        12,
+        3
+    ],
+    "Greater Invisibility": [
+        64,
+        0,
+        48,
+        122,
+        12,
+        71,
+        3
+    ],
+    "Passwall": [
+        64,
+        46,
+        3
+    ],
+    "Earth Tremor": [
+        0,
+        4,
+        12,
+        3
+    ],
+    "Warding Wind": [
+        0,
+        4,
+        12,
+        3
+    ],
+    "Bonding Vine": [
+        0,
+        5,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Grasping Sprout": [
+        0,
+        4,
+        3
+    ],
+    "Blade Ward": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Friends": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Minor Illusion": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "True Strike": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Vicious Mockery": [
+        0
+    ],
+    "Bridge Of Branches": [
+        0,
+        5,
+        4,
+        12,
+        3
+    ],
+    "Overgrowth": [
+        0,
+        4,
+        12,
+        3
+    ],
+    "Rapport Spores": [
+        0,
+        5,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Slicing Leaves": [
+        0,
+        4,
+        11,
+        12,
+        7,
+        3
+    ],
+    "Enemies Abound": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Animal Friendship": [
+        0,
+        54,
+        4,
+        11
+    ],
+    "Bane": [
+        0,
+        5,
+        59,
+        93,
+        121
+    ],
+    "Charm Person": [
+        0,
+        56,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Comprehend Languages": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Dissonant Whispers": [
+        0,
+        73
+    ],
+    "Illusory Script": [
+        0,
+        7,
+        3
+    ],
+    "Silent Image": [
+        0,
+        12,
+        3
+    ],
+    "Sleep": [
+        0,
+        94,
+        12,
+        71,
+        3
+    ],
+    "Speak With Animals": [
+        0,
+        54,
+        4,
+        92,
+        11
+    ],
+    "Tasha'S Hideous Laughter": [
+        0,
+        73,
+        3
+    ],
+    "Unseen Servant": [
+        0,
+        7,
+        3
+    ],
+    "Arm Of The Wild": [
+        0,
+        4,
+        11,
+        12,
+        3
+    ],
+    "Charm Monster": [
+        0,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Animal Messenger": [
+        0,
+        4,
+        11
+    ],
+    "Blindness/Deafness": [
+        0,
+        5,
+        12,
+        72,
+        3
+    ],
+    "Calm Emotions": [
+        0,
+        5,
+        94,
+        71
+    ],
+    "Cloud Of Daggers": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Crown Of Madness": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Detect Thoughts": [
+        0,
+        12,
+        73,
+        3
+    ],
+    "Enthrall": [
+        0,
+        7
+    ],
+    "Hold Person": [
+        0,
+        5,
+        4,
+        41,
+        93,
+        94,
+        95,
+        12,
+        7,
+        3
+    ],
+    "Knock": [
+        0,
+        12,
+        3
+    ],
+    "Locate Animals Or Plants": [
+        0,
+        4,
+        11
+    ],
+    "Locate Object": [
+        0,
+        5,
+        4,
+        9,
+        11,
+        3
+    ],
+    "Phantasmal Force": [
+        0,
+        12,
+        71,
+        73,
+        3
+    ],
+    "Silence": [
+        0,
+        5,
+        43,
+        11
+    ],
+    "Suggestion": [
+        0,
+        51,
+        12,
+        7,
+        3
+    ],
+    "Zone Of Truth": [
+        0,
+        5,
+        9,
+        91,
+        123
+    ],
+    "Engulfing Thorns": [
+        0,
+        4,
+        11,
+        12,
+        3
+    ],
+    "Spray Of Thorns": [
+        0,
+        5,
+        4,
+        11,
+        7,
+        3
+    ],
+    "Synaptic Static": [
+        0,
+        7,
+        3
+    ],
+    "Bestow Curse": [
+        0,
+        5,
+        95,
+        3
+    ],
+    "Clairvoyance": [
+        0,
+        5,
+        12,
+        73,
+        3
+    ],
+    "Fear": [
+        0,
+        95,
+        122,
+        12,
+        7,
+        3
+    ],
+    "Feign Death": [
+        0,
+        5,
+        4,
+        3
+    ],
+    "Leomund'S Tiny Hut": [
+        0,
+        3
+    ],
+    "Major Image": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Nondetection": [
+        0,
+        51,
+        11,
+        3
+    ],
+    "Plant Growth": [
+        0,
+        54,
+        4,
+        44,
+        92,
+        11,
+        71
+    ],
+    "Sending": [
+        0,
+        5,
+        3
+    ],
+    "Speak With Dead": [
+        0,
+        5,
+        51
+    ],
+    "Speak With Plants": [
+        0,
+        4,
+        11
+    ],
+    "Stinking Cloud": [
+        0,
+        47,
+        48,
+        12,
+        72,
+        3
+    ],
+    "Tongues": [
+        0,
+        5,
+        12,
+        7,
+        3
+    ],
+    "Cloud Of Spores": [
+        0,
+        4,
+        12,
+        3
+    ],
+    "Compulsion": [
+        0
+    ],
+    "Confusion": [
+        0,
+        51,
+        4,
+        12,
+        3
+    ],
+    "Dimension Door": [
+        0,
+        56,
+        93,
+        12,
+        7,
+        3
+    ],
+    "Hallucinatory Terrain": [
+        0,
+        4,
+        43,
+        7,
+        3
+    ],
+    "Locate Creature": [
+        0,
+        5,
+        4,
+        47,
+        9,
+        11,
+        3
+    ],
+    "Polymorph": [
+        0,
+        56,
+        4,
+        12,
+        3
+    ],
+    "Mind Spore": [
+        0,
+        5,
+        4,
+        3
+    ],
+    "Awaken": [
+        0,
+        4
+    ],
+    "Dominate Person": [
+        0,
+        56,
+        95,
+        12,
+        71,
+        73,
+        3
+    ],
+    "Dream": [
+        0,
+        45,
+        7,
+        3
+    ],
+    "Geas": [
+        0,
+        5,
+        4,
+        9,
+        3
+    ],
+    "Hold Monster": [
+        0,
+        57,
+        93,
+        94,
+        123,
+        12,
+        7,
+        3
+    ],
+    "Legend Lore": [
+        0,
+        5,
+        51,
+        3
+    ],
+    "Mislead": [
+        0,
+        3
+    ],
+    "Modify Memory": [
+        0,
+        56,
+        3
+    ],
+    "Planar Binding": [
+        0,
+        5,
+        4,
+        3
+    ],
+    "Scrying": [
+        0,
+        5,
+        51,
+        53,
+        4,
+        42,
+        47,
+        93,
+        7,
+        3
+    ],
+    "Seeming": [
+        0,
+        122,
+        12,
+        71,
+        3
+    ],
+    "Teleportation Circle": [
+        0,
+        111,
+        12,
+        3
+    ],
+    "Eyebite": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Find The Path": [
+        0,
+        5,
+        4
+    ],
+    "Guards And Wards": [
+        0,
+        3
+    ],
+    "Mass Suggestion": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Otto'S Irresistible Dance": [
+        0,
+        3
+    ],
+    "Programmed Illusion": [
+        0,
+        3
+    ],
+    "True Seeing": [
+        0,
+        5,
+        12,
+        7,
+        3
+    ],
+    "Etherealness": [
+        0,
+        5,
+        12,
+        7,
+        3
+    ],
+    "Forcecage": [
+        0,
+        7,
+        3
+    ],
+    "Mirage Arcane": [
+        0,
+        4,
+        3
+    ],
+    "Mordenkainen'S Magnificent Mansion": [
+        0,
+        3
+    ],
+    "Mordenkainen'S Sword": [
+        0,
+        3
+    ],
+    "Project Image": [
+        0,
+        3
+    ],
+    "Regenerate": [
+        0,
+        5,
+        4
+    ],
+    "Resurrection": [
+        0,
+        5
+    ],
+    "Symbol": [
+        0,
+        5,
+        3
+    ],
+    "Teleport": [
+        0,
+        12,
+        3
+    ],
+    "Dominate Monster": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Feeblemind": [
+        0,
+        4,
+        7,
+        3
+    ],
+    "Glibness": [
+        0,
+        7
+    ],
+    "Mind Blank": [
+        0,
+        3
+    ],
+    "Power Word Stun": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Foresight": [
+        0,
+        4,
+        7,
+        3
+    ],
+    "Power Word Heal": [
+        0
+    ],
+    "Power Word Kill": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "True Polymorph": [
+        0,
+        7,
+        3
+    ],
+    "Mass Poivmorph": [
+        0
+    ],
+    "Psychic Scream": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Dream Of The Blue Veil": [
+        0,
+        12,
+        7,
+        3
+    ],
+    "Sacred Flame": [
+        5
+    ],
+    "Thaumaturgy": [
+        5
+    ],
+    "Thorn Shield": [
+        5,
+        4
+    ],
+    "Toll The Dead": [
+        5,
+        7,
+        3
+    ],
+    "Word Of Radiance": [
+        5
+    ],
+    "Bless": [
+        5,
+        52,
+        9,
+        121
+    ],
+    "Command": [
+        5,
+        51,
+        9,
+        95,
+        72
+    ],
+    "Create Or Destroy Water": [
+        5,
+        4
+    ],
+    "Detect Evil And Good": [
+        5,
+        9
+    ],
+    "Detect Poison And Disease": [
+        5,
+        4,
+        9,
+        11
+    ],
+    "Guiding Bolt": [
+        5,
+        75
+    ],
+    "Inflict Wounds": [
+        5,
+        121
+    ],
+    "Protection From Evil And Good": [
+        5,
+        9,
+        91,
+        111,
+        123,
+        121,
+        7,
+        3
+    ],
+    "Shield Of Faith": [
+        5,
+        57,
+        9
+    ],
+    "Ceremony": [
+        5,
+        9
+    ],
+    "Augury": [
+        5,
+        51
+    ],
+    "Find Traps": [
+        5,
+        4,
+        11
+    ],
+    "Gentle Repose": [
+        5,
+        59,
+        3
+    ],
+    "Prayer Of Healing": [
+        5
+    ],
+    "Spiritual Weapon": [
+        5,
+        52,
+        57,
+        95
+    ],
+    "Fell": [
+        5,
+        11,
+        7,
+        3
+    ],
+    "Life Transference": [
+        5,
+        3
+    ],
+    "Animate Dead": [
+        5,
+        3
+    ],
+    "Beacon Of Hope": [
+        5,
+        52,
+        91
+    ],
+    "Daylight": [
+        5,
+        53,
+        4,
+        43,
+        45,
+        9,
+        11,
+        12,
+        75
+    ],
+    "Magic Circle": [
+        5,
+        9,
+        123,
+        7,
+        3
+    ],
+    "Meld Into Stone": [
+        5,
+        4,
+        46
+    ],
+    "Remove Curse": [
+        5,
+        9,
+        7,
+        3
+    ],
+    "Spirit Guardians": [
+        5,
+        57
+    ],
+    "Banishment": [
+        5,
+        9,
+        93,
+        111,
+        123,
+        12,
+        7,
+        3
+    ],
+    "Control Water": [
+        5,
+        55,
+        4,
+        42,
+        3
+    ],
+    "Divination": [
+        5,
+        44,
+        45
+    ],
+    "Guardian Of Faith": [
+        5,
+        52,
+        53,
+        91,
+        75
+    ],
+    "Dawn": [
+        5,
+        3
+    ],
+    "Holy Weapon": [
+        5,
+        9
+    ],
+    "Commune": [
+        5,
+        91
+    ],
+    "Contagion": [
+        5,
+        4
+    ],
+    "Dispel Evil And Good": [
+        5,
+        9
+    ],
+    "Flame Strike": [
+        5,
+        53,
+        57,
+        91,
+        72,
+        75
+    ],
+    "Hallow": [
+        5,
+        72
+    ],
+    "Insect Plague": [
+        5,
+        54,
+        55,
+        4,
+        43,
+        45,
+        47,
+        48,
+        12
+    ],
+    "Blade Barrier": [
+        5
+    ],
+    "Create Undead": [
+        5,
+        7,
+        3
+    ],
+    "Forbiddance": [
+        5
+    ],
+    "Harm": [
+        5
+    ],
+    "Heal": [
+        5,
+        4
+    ],
+    "Heroes' Feast": [
+        5,
+        4
+    ],
+    "Planar Ally": [
+        5
+    ],
+    "Word Of Recall": [
+        5
+    ],
+    "Conjure Celestial": [
+        5
+    ],
+    "Divine Word": [
+        5
+    ],
+    "Fire Storm": [
+        5,
+        4,
+        12
+    ],
+    "Plane Shift": [
+        5,
+        4,
+        12,
+        7,
+        3
+    ],
+    "Temple Ofthe Gods": [
+        5
+    ],
+    "Antimagic Field": [
+        5,
+        3
+    ],
+    "Control Weather": [
+        5,
+        4,
+        3
+    ],
+    "Earthquake": [
+        5,
+        4,
+        12
+    ],
+    "Holy Aura": [
+        5
+    ],
+    "Astral Projection": [
+        5,
+        7,
+        3
+    ],
+    "Gate": [
+        5,
+        3
+    ],
+    "Mass Heal": [
+        5
+    ],
+    "True Resurrection": [
+        5,
+        4
+    ],
+    "Spirit Shroud": [
+        5,
+        9,
+        7,
+        3
+    ],
+    "Summon Celestial": [
+        5,
+        9
+    ],
+    "Burning Hands": [
+        53,
+        12,
+        72,
+        3
+    ],
+    "Barkskin": [
+        54,
+        4,
+        44,
+        11
+    ],
+    "Spike Growth": [
+        54,
+        4,
+        41,
+        46,
+        11
+    ],
+    "Dominate Beast": [
+        54,
+        4,
+        95,
+        12,
+        71,
+        73
+    ],
+    "Grasping Vine": [
+        54,
+        4,
+        11
+    ],
+    "Tree Stride": [
+        54,
+        4,
+        44,
+        92,
+        11
+    ],
+    "Fog Cloud": [
+        55,
+        4,
+        11,
+        12,
+        3
+    ],
+    "Gust Of Wind": [
+        55,
+        4,
+        12,
+        3
+    ],
+    "Call Lightning": [
+        55,
+        4,
+        44
+    ],
+    "Sleet Storm": [
+        55,
+        4,
+        41,
+        12,
+        3
+    ],
+    "Destructive Wave": [
+        55,
+        9
+    ],
+    "Pass Without Trace": [
+        56,
+        4,
+        45,
+        11
+    ],
+    "Divine Favor": [
+        57,
+        9
+    ],
+    "Crusader'S Mantle": [
+        57,
+        9
+    ],
+    "Stoneskin": [
+        57,
+        4,
+        46,
+        92,
+        94,
+        95,
+        11,
+        12,
+        3
+    ],
+    "Searing Smite": [
+        58,
+        9
+    ],
+    "Ray Of Enfeeblement": [
+        59,
+        7,
+        3
+    ],
+    "Vampiric Touch": [
+        59,
+        7,
+        3
+    ],
+    "Antilife Shell": [
+        59,
+        4
+    ],
+    "Wall Of Water": [
+        4,
+        12,
+        3
+    ],
+    "Control Flames": [
+        4,
+        12,
+        3
+    ],
+    "Gust": [
+        4,
+        12,
+        3
+    ],
+    "Mold Earth": [
+        4,
+        12,
+        3
+    ],
+    "Shape Water": [
+        4,
+        12,
+        3
+    ],
+    "Beast Bond": [
+        4,
+        11
+    ],
+    "Ice Knife": [
+        4,
+        12,
+        3
+    ],
+    "Dust Devil": [
+        4,
+        12,
+        3
+    ],
+    "Earthbind": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Erupting Earth": [
+        4,
+        12,
+        3
+    ],
+    "Tidal Wave": [
+        4,
+        12,
+        3
+    ],
+    "Watery Sphere": [
+        4,
+        12,
+        3
+    ],
+    "Control Winds": [
+        4,
+        12,
+        3
+    ],
+    "Bones Of The Earth": [
+        4
+    ],
+    "Investiture Of Flame": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Investiture Of Ice": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Investiture Of Stone": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Investiture Of Wind": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Primordial Ward": [
+        4
+    ],
+    "Whirlwind": [
+        4,
+        12,
+        3
+    ],
+    "Piercing Thorn": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Mold Plant": [
+        4,
+        12,
+        3
+    ],
+    "Infestation": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Primal Savagery": [
+        4
+    ],
+    "Lce Knife": [
+        4,
+        12,
+        3
+    ],
+    "Guardian Of Nature": [
+        4
+    ],
+    "Maelstrom": [
+        4,
+        12,
+        3
+    ],
+    "Wrath Ofnature": [
+        4,
+        11
+    ],
+    "Druid Grove": [
+        4
+    ],
+    "Druidcraft": [
+        4
+    ],
+    "Produce Flame": [
+        4
+    ],
+    "Shillelagh": [
+        4
+    ],
+    "Entangle": [
+        4
+    ],
+    "Goodberry": [
+        4,
+        11
+    ],
+    "Gaea'S Hand": [
+        4,
+        11,
+        7,
+        3
+    ],
+    "Beast Sense": [
+        4,
+        11
+    ],
+    "Flame Blade": [
+        4
+    ],
+    "Moonbeam": [
+        4,
+        92
+    ],
+    "Arm Of Themoonbeam Wild": [
+        4
+    ],
+    "Explosive Seed": [
+        4,
+        12,
+        7,
+        3
+    ],
+    "Healing Spirit": [
+        4,
+        11
+    ],
+    "Conjure Animals": [
+        4,
+        11
+    ],
+    "Skewering Branch": [
+        4,
+        11,
+        12,
+        7,
+        3
+    ],
+    "Conjure Minor Elementals": [
+        4,
+        3
+    ],
+    "Conjure Woodland Beings": [
+        4,
+        11
+    ],
+    "Giant Insect": [
+        4
+    ],
+    "Conjure Minor Plant Creatures": [
+        4,
+        11,
+        3
+    ],
+    "Tree Strike": [
+        4,
+        11,
+        12
+    ],
+    "Commune With Nature": [
+        4,
+        41,
+        44,
+        92,
+        11
+    ],
+    "Conjure Elemental": [
+        4,
+        42,
+        3
+    ],
+    "Reincarnate": [
+        4
+    ],
+    "Conjure Plant Creature": [
+        4,
+        11,
+        3
+    ],
+    "Conjure Fey": [
+        4,
+        7
+    ],
+    "Move Earth": [
+        4,
+        12,
+        3
+    ],
+    "Sunbeam": [
+        4,
+        12,
+        3
+    ],
+    "Transport Via Plants": [
+        4
+    ],
+    "Wall Of Thorns": [
+        4
+    ],
+    "Wind Walk": [
+        4
+    ],
+    "Dryad'S Leap": [
+        4
+    ],
+    "Reverse Gravity": [
+        4,
+        12,
+        3
+    ],
+    "Animal Shapes": [
+        4
+    ],
+    "Antipathy/Sympathy": [
+        4,
+        3
+    ],
+    "Sunburst": [
+        4,
+        12,
+        3
+    ],
+    "Tsunami": [
+        4
+    ],
+    "Shapechange": [
+        4,
+        3
+    ],
+    "Storm Of Vengeance": [
+        4
+    ],
+    "Summon Beast": [
+        4,
+        11
+    ],
+    "Summon Fey": [
+        4,
+        11,
+        7,
+        3
+    ],
+    "Summon Elemental": [
+        4,
+        11
+    ],
+    "Slow": [
+        41,
+        12,
+        3
+    ],
+    "Misty Step": [
+        42,
+        92,
+        93,
+        111,
+        12,
+        7,
+        3
+    ],
+    "Darkness": [
+        47,
+        12,
+        7,
+        3
+    ],
+    "Compelled Duel": [
+        9
+    ],
+    "Thunderous Smite": [
+        9
+    ],
+    "Wrathful Smite": [
+        9,
+        74
+    ],
+    "Find Steed": [
+        9
+    ],
+    "Sporecaller'S Smite": [
+        9
+    ],
+    "Blinding Smite": [
+        9
+    ],
+    "Find Greater Steed": [
+        9
+    ],
+    "Aura Of Life": [
+        9
+    ],
+    "Staggering Smite": [
+        9,
+        74
+    ],
+    "Circle Of Power": [
+        9
+    ],
+    "Ensnaring Strike": [
+        92,
+        11
+    ],
+    "Hunter'S Mark": [
+        93,
+        11
+    ],
+    "Counterspell": [
+        94,
+        12,
+        7,
+        3
+    ],
+    "Armor Of Agathys": [
+        95,
+        7
+    ],
+    "Zephyr Strike": [
+        11
+    ],
+    "Guardian Ofnature": [
+        11
+    ],
+    "Steel Wind Strike": [
+        11,
+        3
+    ],
+    "Hail Of Thorns": [
+        11
+    ],
+    "Cordon Of Arrows": [
+        11
+    ],
+    "Lightning Arrow": [
+        11
+    ],
+    "Conjure Volley": [
+        11
+    ],
+    "Swift Quiver": [
+        11
+    ],
+    "Chaos Bolt": [
+        12
+    ],
+    "Dragon'S Breath": [
+        12,
+        3
+    ],
+    "Mind Spike": [
+        12,
+        7,
+        3
+    ],
+    "Shadow Blade": [
+        12,
+        7,
+        3
+    ],
+    "Thunder Step": [
+        12,
+        7,
+        3
+    ],
+    "Sickening Radiance": [
+        12,
+        7,
+        3
+    ],
+    "Enervation": [
+        12,
+        7,
+        3
+    ],
+    "Far Step": [
+        12,
+        7,
+        3
+    ],
+    "Immolation": [
+        12,
+        3
+    ],
+    "Wall Of Light": [
+        12,
+        7
+    ],
+    "Mental Prison": [
+        12,
+        7,
+        3
+    ],
+    "Scatter": [
+        12,
+        7,
+        3
+    ],
+    "Crown Ofstars": [
+        12
+    ],
+    "Power Word Pain": [
+        12,
+        7,
+        3
+    ],
+    "Mass Polymorph": [
+        12,
+        3
+    ],
+    "Aganazzar'S Scorcher": [
+        12,
+        3
+    ],
+    "Maximilian'S Earthen Grasp": [
+        12,
+        3
+    ],
+    "Snilloc'S Snowball Swarm": [
+        12,
+        3
+    ],
+    "Melf'S Minute Meteors": [
+        12,
+        3
+    ],
+    "Storm Sphere": [
+        12,
+        3
+    ],
+    "Vitriolic Sphere": [
+        12,
+        3
+    ],
+    "Abi-Dalzim'S Horrid Wilting": [
+        12,
+        3
+    ],
+    "Chill Touch": [
+        12,
+        7,
+        3
+    ],
+    "Chromatic Orb": [
+        12,
+        3
+    ],
+    "Color Spray": [
+        12,
+        3
+    ],
+    "Mage Armor": [
+        12,
+        3
+    ],
+    "Witch Bolt": [
+        12,
+        7,
+        3
+    ],
+    "Wefellb": [
+        12
+    ],
+    "Telekinesis": [
+        12,
+        73,
+        3
+    ],
+    "Arcane Gate": [
+        12,
+        7,
+        3
+    ],
+    "Chain Lightning": [
+        12,
+        3
+    ],
+    "Circle Of Death": [
+        12,
+        7,
+        3
+    ],
+    "Disintegrate": [
+        12,
+        3
+    ],
+    "Globe Of Invulnerability": [
+        12,
+        3
+    ],
+    "Delayed Blast Fireball": [
+        12,
+        3
+    ],
+    "Finger Of Death": [
+        12,
+        7,
+        3
+    ],
+    "Prismatic Spray": [
+        12,
+        3
+    ],
+    "Incendiary Cloud": [
+        12,
+        3
+    ],
+    "Meteor Swarm": [
+        12,
+        3
+    ],
+    "Time Stop": [
+        12,
+        3
+    ],
+    "Wish": [
+        12,
+        3
+    ],
+    "Mind Sliver": [
+        12,
+        7,
+        3
+    ],
+    "Tasha'S Mind Whip": [
+        12,
+        3
+    ],
+    "Tasha'S Otherworldly Guise": [
+        12,
+        7,
+        3
+    ],
+    "Blade Of Disaster": [
+        12,
+        7,
+        3
+    ],
+    "Cause Fear": [
+        7,
+        3
+    ],
+    "Summon Lesser Demons": [
+        7,
+        3
+    ],
+    "Shadow Ofmoil": [
+        7
+    ],
+    "Summon Greater Demon": [
+        7,
+        3
+    ],
+    "Danse Macabre": [
+        7,
+        3
+    ],
+    "Infernal Calling": [
+        7,
+        3
+    ],
+    "Negative Energyflood": [
+        7,
+        3
+    ],
+    "Soul Cage": [
+        7,
+        3
+    ],
+    "Crown Of Stars": [
+        7,
+        3
+    ],
+    "Maddening Darkness": [
+        7,
+        3
+    ],
+    "Eldritch Blast": [
+        7
+    ],
+    "Arms Of Hadar": [
+        7
+    ],
+    "Hellish Rebuke": [
+        7
+    ],
+    "Hex": [
+        7
+    ],
+    "Hunger Of Hadar": [
+        7
+    ],
+    "Contact Other Plane": [
+        7,
+        3
+    ],
+    "Flesh To Stone": [
+        7,
+        3
+    ],
+    "Demiplane": [
+        7,
+        3
+    ],
+    "Imprisonment": [
+        7,
+        3
+    ],
+    "Summon Shadowspawn": [
+        7,
+        3
+    ],
+    "Summon Undead": [
+        7,
+        3
+    ],
+    "Summon Aberration": [
+        7,
+        3
+    ],
+    "Summon Fiend": [
+        7,
+        3
+    ],
+    "Evard'S Black Tentacles": [
+        73,
+        3
+    ],
+    "Phantasmal Killer": [
+        74,
+        3
+    ],
+    "Lviind Spike": [
+        3
+    ],
+    "Wall Oflight": [
+        3
+    ],
+    "Create Homunculus": [
+        3
+    ],
+    "Tenser'S Transformation": [
+        3
+    ],
+    "Illusory Dragon": [
+        3
+    ],
+    "Mightyfortress": [
+        3
+    ],
+    "Inuulnerabiiity": [
+        3
+    ],
+    "Wall Of Sand": [
+        3
+    ],
+    "Find Familiar": [
+        3
+    ],
+    "Tenser'S Floating Disk": [
+        3
+    ],
+    "Nystul'S Magic Aura": [
+        3
+    ],
+    "Phantom Steed": [
+        3
+    ],
+    "Leomund'S Secret Chest": [
+        3
+    ],
+    "Mordenkainen'S Private Sanctum": [
+        3
+    ],
+    "Rary'S Telepathic Bond": [
+        3
+    ],
+    "Contingency": [
+        3
+    ],
+    "Drawmij'S Instant Summons": [
+        3
+    ],
+    "Magic Jar": [
+        3
+    ],
+    "Otiluke'S Freezing Sphere": [
+        3
+    ],
+    "Wall Of Ice": [
+        3
+    ],
+    "Sequester": [
+        3
+    ],
+    "Simulacrum": [
+        3
+    ],
+    "Clone": [
+        3
+    ],
+    "Maze": [
+        3
+    ],
+    "Telepathy": [
+        3
+    ],
+    "Prismatic Wall": [
+        3
+    ],
+    "Weird": [
+        3
+    ]
+}
