@@ -4,8 +4,8 @@ from pprint import pprint
 with open("sources/classSpells.json", "r") as f:
     data = json.load(f)
 
-with open("proccesed/indexi.json", "r") as f:
-    indexi = json.load(f)
+with open("proccesed/indexes.json", "r") as f:
+    indexes = json.load(f)
 
 spells_results = {}
 
@@ -31,8 +31,8 @@ for clas in data:
 
 for spell in spells_results:
     for i, title in enumerate(spells_results[spell]):
-        for index in indexi['classes']:
-            if title == indexi['classes'][index]['en']:
+        for index in indexes['classes']:
+            if title == indexes['classes'][index]['en']:
                 spells_results[spell][i] = int(index)
             
 

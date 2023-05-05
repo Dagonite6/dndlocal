@@ -11,16 +11,12 @@ def stats_validator(stats):
             raise serializers.ValidationError({"stats": "Stats can't be negative or zero"})
         
 def race_validator(race):  
-    if not 0 <= race <= (constants.MAX_RACE):
-        raise serializers.ValidationError({"race": "Unknown race"})
-    if race == 0:
-        raise serializers.ValidationError({"race": "Empty race"})
+    if not race in constants.RACES:
+        raise serializers.ValidationError({"race": "Unknown or empty race"})
     
 def class_validator(char_class):
-    if not 0 <= char_class <= (constants.MAX_RACE):
-        raise serializers.ValidationError({"class": "Unknown class"})
-    if char_class == 0:
-        raise serializers.ValidationError({"class": "Empty class"})
+    if not char_class in constants.CLASSES:
+        raise serializers.ValidationError({"race": "Unknown or empty class"})
 
 class CharacterSerializer(serializers.ModelSerializer):
     char_class = serializers.IntegerField(validators=[class_validator])
