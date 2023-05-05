@@ -1,0 +1,2527 @@
+[
+    {
+        "rarity": 0,
+        "img": "padded.jpg",
+        "ac": "11 + Dex modifier",
+        "stealthDis": true,
+        "weight": "8",
+        "cost": "5 gp",
+        "category": "Armor",
+        "typeAdditions": "Light",
+        "name": {
+            "en": "Padded",
+            "ru": "Стеганая Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "leather.jpg",
+        "ac": "11 + Dex modifier",
+        "weight": "10",
+        "cost": "10 gp",
+        "category": "Armor",
+        "typeAdditions": "Light",
+        "name": {
+            "en": "Leather",
+            "ru": "Кожаная Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "studded_leather.jpg",
+        "ac": "12 + Dex modifier",
+        "weight": "13",
+        "cost": "45 gp",
+        "category": "Armor",
+        "typeAdditions": "Light",
+        "name": {
+            "en": "Studded Leather",
+            "ru": "Клепаная Кожаная Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "hide.jpg",
+        "ac": "12 + Dex modifier (max 2)",
+        "weight": "12",
+        "cost": "10 gp",
+        "category": "Armor",
+        "typeAdditions": "Medium",
+        "name": {
+            "en": "Hide",
+            "ru": "Броня Из Шкур"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "chain_shirt.jpg",
+        "ac": "13 + Dex modifier (max 2)",
+        "weight": "20",
+        "cost": "50 gp",
+        "category": "Armor",
+        "typeAdditions": "Medium",
+        "name": {
+            "en": "Chain Shirt",
+            "ru": "Кольчужная Рубаха"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "scalemail.jpg",
+        "ac": "14 + Dex modifier (max 2)",
+        "stealthDis": true,
+        "weight": "45",
+        "cost": "50 gp",
+        "category": "Armor",
+        "typeAdditions": "Medium",
+        "name": {
+            "en": "Scale Mail",
+            "ru": "Чешуйчатая Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "breastplate.jpg",
+        "ac": "14 + Dex modifier (max 2)",
+        "weight": "20",
+        "cost": "400 gp",
+        "category": "Armor",
+        "typeAdditions": "Medium",
+        "name": {
+            "en": "Breastplate",
+            "ru": "Кираса"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "half_plate.jpg",
+        "ac": "15 + Dex modifier (max 2)",
+        "stealthDis": true,
+        "weight": "40",
+        "cost": "750 gp",
+        "category": "Armor",
+        "typeAdditions": "Medium",
+        "name": {
+            "en": "Half Plate",
+            "ru": "Полулаты"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "ringmale.jpg",
+        "ac": "14",
+        "stealthDis": true,
+        "weight": "40",
+        "cost": "30 gp",
+        "category": "Armor",
+        "typeAdditions": "Heavy",
+        "name": {
+            "en": "Ring Mail",
+            "ru": "Колечная Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "chainmale.jpg",
+        "ac": "16",
+        "stealthDis": true,
+        "weight": "55",
+        "cost": "75 gp",
+        "category": "Armor",
+        "typeAdditions": "Heavy",
+        "name": {
+            "en": "Chain Mail",
+            "ru": "Кольчужная Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "splintmale.jpg",
+        "ac": "17",
+        "stealthDis": true,
+        "weight": "60",
+        "cost": "200 gp",
+        "category": "Armor",
+        "typeAdditions": "Heavy",
+        "name": {
+            "en": "Splint",
+            "ru": "Наборная Броня"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "plate.jpg",
+        "ac": "18",
+        "stealthDis": true,
+        "weight": "65",
+        "cost": "1500 gp",
+        "category": "Armor",
+        "typeAdditions": "Heavy",
+        "name": {
+            "en": "Plate",
+            "ru": "Латы"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "shield.jpg",
+        "ac": "+2",
+        "weight": "6",
+        "cost": "10 gp",
+        "category": "Armor",
+        "typeAdditions": "Shield",
+        "name": {
+            "en": "Shield",
+            "ru": "Щит"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "club.jpg",
+        "weight": "2",
+        "damageVal": "1d4",
+        "damageType": "bludgeoning",
+        "props": [
+            "Light"
+        ],
+        "cost": "1 sp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Club",
+            "ru": "Дубинка"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "dagger.jpg",
+        "weight": "1",
+        "damageVal": "1d4",
+        "damageType": "piercing",
+        "props": [
+            "Finesse",
+            "light",
+            "thrown (range 20/60)"
+        ],
+        "cost": "2 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Dagger",
+            "ru": "Кинжал"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "greatclub.jpg",
+        "weight": "10",
+        "damageVal": "1d8",
+        "damageType": "bludgeoning",
+        "props": [
+            "Two-handed"
+        ],
+        "cost": "2 sp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Greatclub",
+            "ru": "Палица"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "handaxe.jpg",
+        "weight": "2",
+        "damageVal": "1d6",
+        "damageType": "slashing",
+        "props": [
+            "Light",
+            "thrown (range 20/60)"
+        ],
+        "cost": "5 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Handaxe",
+            "ru": "Ручной Топор"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "javelin.jpg",
+        "weight": "2",
+        "damageVal": "1d6",
+        "damageType": "piercing",
+        "props": [
+            "Thrown (range 30/120)"
+        ],
+        "cost": "5 sp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Javelin",
+            "ru": "Метательное Копьё"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "light_hammer.jpg",
+        "weight": "2",
+        "damageVal": "1d4",
+        "damageType": "bludgeoning",
+        "props": [
+            "Light",
+            "thrown (range 20/60)"
+        ],
+        "cost": "2 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Light Hammer",
+            "ru": "Лёгкий Молот"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "mace.jpg",
+        "weight": "4",
+        "damageVal": "1d6",
+        "damageType": "bludgeoning",
+        "cost": "5 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Mace",
+            "ru": "Булава"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "quarterstaff.jpg",
+        "weight": "4",
+        "damageVal": "1d6",
+        "damageType": "bludgeoning",
+        "props": [
+            "Versatile (1d8)"
+        ],
+        "cost": "2 sp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Quarterstaff",
+            "ru": "Боевой Посох"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "sickle.jpg",
+        "weight": "2",
+        "damageVal": "1d4",
+        "damageType": "slashing",
+        "props": [
+            "Light"
+        ],
+        "cost": "1 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Sickle",
+            "ru": "Серп"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "spear.jpg",
+        "weight": "32",
+        "damageVal": "1d6",
+        "damageType": "piercing",
+        "props": [
+            "Thrown (range 20/60)",
+            "versatile (1d8)"
+        ],
+        "cost": "1 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Spear",
+            "ru": "Копьё"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "unarmed_strike.jpg",
+        "damageVal": "1",
+        "damageType": "bludgeoning",
+        "cost": "0 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Melee",
+        "name": {
+            "en": "Unarmed Strike",
+            "ru": "Безоружный Удар"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "crossbow_light.jpg",
+        "weight": "5",
+        "damageVal": "1d8",
+        "damageType": "piercing",
+        "props": [
+            "Ammunition (range 80/320)",
+            "loading",
+            "two-handed"
+        ],
+        "cost": "25 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Ranged",
+        "name": {
+            "en": "Crossbow, Light",
+            "ru": "Арбалет, Легкий"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "dart.jpg",
+        "weight": "1/4",
+        "damageVal": "1d4",
+        "damageType": "piercing",
+        "props": [
+            "Finesse",
+            "thrown (range 20/60)"
+        ],
+        "cost": "5 sp",
+        "category": "weapon",
+        "typeAdditions": "Simple Ranged",
+        "name": {
+            "en": "Dart",
+            "ru": "Дротик"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "shortbow.jpg",
+        "weight": "2",
+        "damageVal": "1d6",
+        "damageType": "piercing",
+        "props": [
+            "Ammunition (range 80/320)",
+            "two-handed"
+        ],
+        "cost": "25 gp",
+        "category": "weapon",
+        "typeAdditions": "Simple Ranged",
+        "name": {
+            "en": "Shortbow",
+            "ru": "Короткий Лук"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "sling.jpg",
+        "weight": "0",
+        "damageVal": "1d4",
+        "damageType": "bludgeoning",
+        "props": [
+            "Ammunition (range 30/120)"
+        ],
+        "cost": "1 sp",
+        "category": "weapon",
+        "typeAdditions": "Simple Ranged",
+        "name": {
+            "en": "Sling",
+            "ru": "Праща"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "battleaxe.jpg",
+        "weight": "4",
+        "damageVal": "1d8",
+        "damageType": "slashing",
+        "props": [
+            "Versatile (1d10)"
+        ],
+        "cost": "10 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Battleaxe",
+            "ru": "Боевой Топор"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "flail.jpg",
+        "weight": "2",
+        "damageVal": "1d8",
+        "damageType": "bludgeoning",
+        "cost": "10 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Flail",
+            "ru": "Цеп"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "glaive.jpg",
+        "weight": "6",
+        "damageVal": "1d10",
+        "damageType": "slashing",
+        "props": [
+            "Heavy",
+            "reach",
+            "two-handed"
+        ],
+        "cost": "20 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Glaive",
+            "ru": "Глефа"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "greataxe.jpg",
+        "weight": "7",
+        "damageVal": "1d12",
+        "damageType": "slashing",
+        "props": [
+            "Heavy",
+            "two-handed"
+        ],
+        "cost": "30 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Greataxe",
+            "ru": "Секира"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "greatsword.jpg",
+        "weight": "6",
+        "damageVal": "2d6",
+        "damageType": "slashing",
+        "props": [
+            "Heavy",
+            "two-handed"
+        ],
+        "cost": "50 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Greatsword",
+            "ru": "Двуручный Меч"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "halberd.jpg",
+        "weight": "6",
+        "damageVal": "1d10",
+        "damageType": "slashing",
+        "props": [
+            "Heavy",
+            "reach",
+            "two-handed"
+        ],
+        "cost": "20 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Halberd",
+            "ru": "Алебарда"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "lance.jpg",
+        "weight": "6",
+        "damageVal": "1d12",
+        "damageType": "piercing",
+        "props": [
+            "Reach",
+            "special"
+        ],
+        "cost": "10 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Lance",
+            "ru": "Длинное Копьё"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "longsword.jpg",
+        "weight": "3",
+        "damageVal": "1d8",
+        "damageType": "slashing",
+        "props": [
+            "Versatile (1dl0)"
+        ],
+        "cost": "15 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Longsword",
+            "ru": "Длинный Меч"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "morningstar.jpg",
+        "weight": "4",
+        "damageVal": "1d8",
+        "damageType": "piercing",
+        "cost": "15 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Morningstar",
+            "ru": "Моргенштерн"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "maul.jpg",
+        "weight": "10",
+        "damageVal": "2d6",
+        "damageType": "bludgeoning",
+        "props": [
+            "Heavy",
+            "two-handed"
+        ],
+        "cost": "10 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Maul",
+            "ru": "Молот"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "pike.jpg",
+        "weight": "18",
+        "damageVal": "1d10",
+        "damageType": "piercing",
+        "props": [
+            "Heavy",
+            "reach",
+            "two-handed"
+        ],
+        "cost": "5 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Pike",
+            "ru": "Пика"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "rapier.jpg",
+        "weight": "2",
+        "damageVal": "1d8",
+        "damageType": "piercing",
+        "props": [
+            "Finesse"
+        ],
+        "cost": "25 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Rapier",
+            "ru": "Рапира"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "scimitar.jpg",
+        "weight": "3",
+        "damageVal": "1d6",
+        "damageType": "slashing",
+        "props": [
+            "Finesse",
+            "light"
+        ],
+        "cost": "25 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Scimitar",
+            "ru": "Скимитар"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "shortsword.jpg",
+        "weight": "2",
+        "damageVal": "1d6",
+        "damageType": "piercing",
+        "props": [
+            "Finesse",
+            "light"
+        ],
+        "cost": "10 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Shortsword",
+            "ru": "Короткий Меч"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "trident.jpg",
+        "weight": "4",
+        "damageVal": "1d6",
+        "damageType": "piercing",
+        "props": [
+            "Thrown (range 20/60)",
+            "versatile (1d8)"
+        ],
+        "cost": "5 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Trident",
+            "ru": "Трезубец"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "war_pick.jpg",
+        "weight": "2",
+        "damageVal": "1d8",
+        "damageType": "piercing",
+        "cost": "5 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "War Pick",
+            "ru": "Боевая Кирка"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "whip.jpg",
+        "weight": "3",
+        "damageVal": "1d4",
+        "damageType": "slashing",
+        "props": [
+            "Finesse",
+            "reach"
+        ],
+        "cost": "2 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Whip",
+            "ru": "Кнут"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "warhammer.jpg",
+        "weight": "2",
+        "damageVal": "1d8",
+        "damageType": "bludgeoning",
+        "props": [
+            "Versatile (1d10)"
+        ],
+        "cost": "15 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Melee",
+        "name": {
+            "en": "Warhammer",
+            "ru": "Боевой Молот"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "blowgun.jpg",
+        "weight": "1",
+        "damageVal": "1",
+        "damageType": "piercing",
+        "props": [
+            "Ammunition (range 25/100)",
+            "loading"
+        ],
+        "cost": "10 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Ranged",
+        "name": {
+            "en": "Blowgun",
+            "ru": "Духовая Трубка"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "crossbow_hand.jpg",
+        "weight": "3",
+        "damageVal": "1d6",
+        "damageType": "piercing",
+        "props": [
+            "Ammunition (range 30/120)",
+            "light",
+            "loading"
+        ],
+        "cost": "75 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Ranged",
+        "name": {
+            "en": "Crossbow, Hand",
+            "ru": "Арбалет, Ручной"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "crossbow_heavy.jpg",
+        "weight": "18",
+        "damageVal": "1d10",
+        "damageType": "piercing",
+        "props": [
+            "Ammunition (range 100/400)",
+            "heavy",
+            "loading",
+            "two-handed"
+        ],
+        "cost": "50 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Ranged",
+        "name": {
+            "en": "Crossbow, Heavy",
+            "ru": "Арбалет, Тяжёлый"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "longbow.jpg",
+        "weight": "2",
+        "damageVal": "1d8",
+        "damageType": "piercing",
+        "props": [
+            "Ammunition (range 150/600)",
+            "heavy",
+            "two-handed"
+        ],
+        "cost": "50 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Ranged",
+        "name": {
+            "en": "Longbow",
+            "ru": "Длинный Лук"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "net.jpg",
+        "weight": "3",
+        "props": [
+            "Special",
+            "thrown (range 5/15)"
+        ],
+        "cost": "1 gp",
+        "category": "weapon",
+        "typeAdditions": "Martial Ranged",
+        "name": {
+            "en": "Net",
+            "ru": "Сеть"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "abacus.jpg",
+        "weight": "2",
+        "cost": "2 gp",
+        "category": "tool",
+        "name": {
+            "en": "Abacus",
+            "ru": "Счеты"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "acid.jpg",
+        "weight": "1",
+        "cost": "25 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Acid (Vial)",
+            "ru": "Кислота (Флакон)"
+        },
+        "text": {
+            "en": "As An Action, You Can Splash The Contents Of This Vial Onto A Creature Within 5 Feet Of You Or Throw  The Vial Up To 20 Feet, Shattering It On Impact. In Either Case, Make A Ranged Attack Against A Creature Or Object, Treating The Acid As An Improvised Weapon. On A Hit, The Target Takes 2D6 Acid Damage.",
+            "ru": "Вы Можете Действием Выплеснуть Содержимое Этого Сосуда На Существо, Находящееся В Пределах 5 Футов От Вас, Или Метнуть Сосуд На Расстояние До 20 Футов, Чтобы Он Разбился От Удара. В Любом Случае Совершите Дальнобойную Атаку Против Существа Или Предмета, Считая Кислоту Импровизированным Оружием. При Попадании Цель Получает Урон Кислотой 2К6."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "alchemists_fire.jpg",
+        "weight": "1",
+        "cost": "50 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Alchemist'S Fire (Flask)",
+            "ru": "Алхимический Огонь (Фляжка)"
+        },
+        "text": {
+            "en": "This Sticky, Adhesive Fluid Ignites When Exposed To Air. As An Action, You Can Throw This Flask Up To 20 Feet, Shattering It On Impact. Make A Ranged Attack Against A Creature Or Object, Treating The Alchemist'S Tire As An Improvised Weapon. On A Hit, The Target Takes Id4 Tire Damage At The Start Of Each Of Its Turns. Acreature Can End This Damage By Using Its Action To Make A Dc 10 Dexterity Check To Extinguish The Liames.",
+            "ru": "Эта Вязкая И Клейкая Жидкость Воспламеняется При Контакте С Воздухом. Вы Можете Действием Метнуть Фляжку На Расстояние До 20 Футов, Разбив Её От Удара. Совершите Дальнобойную Атаку По Существу Или Предмету, Считая Алхимический Огонь Импровизированным Оружием. При Попадании Цель Получает Урон Огнём 1К4 В Начале Каждого Своего Хода. Существо Может Окончить Этот Урон, Потратив Действие На Тушение Пламени, И Совершив Проверку Ловкости Со Сл 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "arrows.jpg",
+        "weight": "1",
+        "cost": "1 gp",
+        "category": "Ammunition",
+        "name": {
+            "en": "Arrows (20)",
+            "ru": "Стрелы (20)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "blowgun_needles.jpg",
+        "weight": "1",
+        "cost": "1 gp",
+        "category": "Ammunition",
+        "name": {
+            "en": "Blowgun Needles (50)",
+            "ru": "Иглы Для Трубки (50)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "crossbow_bolts.jpg",
+        "weight": "1.5",
+        "cost": "1 gp",
+        "category": "Ammunition",
+        "name": {
+            "en": "Crossbow Bolts (20)",
+            "ru": "Арбалетные Болты (20)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "sling_bullets.jpg",
+        "weight": "1.5",
+        "cost": "4 cp",
+        "category": "Ammunition",
+        "name": {
+            "en": "Sling Bullets (20)",
+            "ru": "Снаряды Для Пращи (20)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "antitoxin.jpg",
+        "weight": "0",
+        "cost": "50 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Antitoxin (Vial)",
+            "ru": "Противоядие (Флакон)"
+        },
+        "text": {
+            "en": "Acreature That Drinks This Viai Of Liquid Gains Advantage On Saving Throws Against Poison For 1 Hour. Lt Confers No Benetit To Undead Or Constructs.",
+            "ru": "Существо, Выпившее Жидкость Из Этого Флакона, В Течение Часа Совершает Спасброски От Яда С Преимуществом. Оно Не Предоставляет Преимущества Нежити И Конструктам."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "crystal.jpg",
+        "weight": "1",
+        "cost": "10 gp",
+        "category": "Arcane Focus",
+        "name": {
+            "en": "Crystal",
+            "ru": "Кристалл"
+        },
+        "text": {
+            "en": "An Arcane Focus Is A Special Iteman Orb, A Crystal, A Rod, A Specially Constructed Staff, A Wand.Like Length Ofwood, Or Some Similar Itemdesigned To Channel The Power Of Arcane Spells. A Sorcerer, Warlock, Or Wizard Can Use Such An Item As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Магическая Фокусировка Это Особый Предмет — Сфера, Кристалл, Жезл, Особый Посох, Короткая Деревянная Палочка Или Похожий Предмет — Созданный Для Проведения Тайных Заклинаний. Волшебники, Колдуны И Чародеи Могут Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "orb.jpg",
+        "weight": "3",
+        "cost": "20 gp",
+        "category": "Arcane Focus",
+        "name": {
+            "en": "Orb",
+            "ru": "Сфера"
+        },
+        "text": {
+            "en": "An Arcane Focus Is A Special Iteman Orb, A Crystal, A Rod, A Specially Constructed Staff, A Wand.Like Length Ofwood, Or Some Similar Itemdesigned To Channel The Power Of Arcane Spells. A Sorcerer, Warlock, Or Wizard Can Use Such An Item As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Магическая Фокусировка Это Особый Предмет — Сфера, Кристалл, Жезл, Особый Посох, Короткая Деревянная Палочка Или Похожий Предмет — Созданный Для Проведения Тайных Заклинаний. Волшебники, Колдуны И Чародеи Могут Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "rod.jpg",
+        "weight": "2",
+        "cost": "10 gp",
+        "category": "Arcane Focus",
+        "name": {
+            "en": "Rod",
+            "ru": "Жезл"
+        },
+        "text": {
+            "en": "An Arcane Focus Is A Special Iteman Orb, A Crystal, A Rod, A Specially Constructed Staff, A Wand.Like Length Ofwood, Or Some Similar Itemdesigned To Channel The Power Of Arcane Spells. A Sorcerer, Warlock, Or Wizard Can Use Such An Item As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Магическая Фокусировка Это Особый Предмет — Сфера, Кристалл, Жезл, Особый Посох, Короткая Деревянная Палочка Или Похожий Предмет — Созданный Для Проведения Тайных Заклинаний. Волшебники, Колдуны И Чародеи Могут Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "staff.jpg",
+        "weight": "4",
+        "cost": "5 gp",
+        "category": "Arcane Focus",
+        "name": {
+            "en": "Staff",
+            "ru": "Посох"
+        },
+        "text": {
+            "en": "An Arcane Focus Is A Special Iteman Orb, A Crystal, A Rod, A Specially Constructed Staff, A Wand.Like Length Ofwood, Or Some Similar Itemdesigned To Channel The Power Of Arcane Spells. A Sorcerer, Warlock, Or Wizard Can Use Such An Item As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Магическая Фокусировка Это Особый Предмет — Сфера, Кристалл, Жезл, Особый Посох, Короткая Деревянная Палочка Или Похожий Предмет — Созданный Для Проведения Тайных Заклинаний. Волшебники, Колдуны И Чародеи Могут Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "wand.jpg",
+        "weight": "1",
+        "cost": "10 gp",
+        "category": "Arcane Focus",
+        "name": {
+            "en": "Wand",
+            "ru": "Волшебная Палочка"
+        },
+        "text": {
+            "en": "An Arcane Focus Is A Special Iteman Orb, A Crystal, A Rod, A Specially Constructed Staff, A Wand.Like Length Ofwood, Or Some Similar Itemdesigned To Channel The Power Of Arcane Spells. A Sorcerer, Warlock, Or Wizard Can Use Such An Item As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Магическая Фокусировка Это Особый Предмет — Сфера, Кристалл, Жезл, Особый Посох, Короткая Деревянная Палочка Или Похожий Предмет — Созданный Для Проведения Тайных Заклинаний. Волшебники, Колдуны И Чародеи Могут Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "backpack.jpg",
+        "weight": "5",
+        "cost": "2 gp",
+        "category": "Container",
+        "name": {
+            "en": "Backpack",
+            "ru": "Рюкзак"
+        },
+        "text": {
+            "en": "Capacily: 1 Cubic F001/30 Pounds Of Gear<Br>You Can Al50 Strap Items, Such As A Bedroll Ar A Coil Af Rape, To Lhe Oulside Of A Backpack.",
+            "ru": "Вместимость: 1 Кубический Фут/30 Фунтов (15 Килограмм)<Br>Вы Также Можете Привязывать Такие Предметы Как Спальники И Верёвки Снаружи Рюкзака."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "ball_bearings.jpg",
+        "weight": "2",
+        "cost": "1 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Ball Bearings (Bag Of 1000)",
+            "ru": "Металлические Шарики (Сумка С 1000 Шт.)"
+        },
+        "text": {
+            "en": "As An Action, You Can Spill These Tiny Metal Balls From Their Pouch To Cover A Levei Area 10 Feet Square. Acreature Moving Across The Covered Area Must Succeed On A Dc 10 Dexterity Saving Throw Or Fali Prone. A Creature Moving Through The Area At Half Speed Doesn'T Need To Make The Saving Throw.",
+            "ru": "Вы Можете Действием Рассыпать Из Этого Мешка Крохотные Металлические Шарики, Покрыв Площадь 10 × 10 Футов. Существа, Перемещающиеся По Этой Области, Должны Преуспеть В Спасброске Ловкости Со Сл 10, Иначе Они Падают Ничком. Существо, Перемещающееся По Этой Области С Уменьшенной Вдвое Скоростью, Не Обязано Совершать Спасбросок."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "barrei.jpg",
+        "weight": "70",
+        "cost": "2 gp",
+        "category": "container",
+        "name": {
+            "en": "Barrei",
+            "ru": "Бочка"
+        },
+        "text": {
+            "en": "Capacity: 40 Gallons Liquid, 4 Cubic Feel Solid",
+            "ru": "Вмевтимость: 40 Галлонов (150 Литров), 4 Кубических Фута"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "basket.jpg",
+        "weight": "2",
+        "cost": "4 sp",
+        "category": "container",
+        "name": {
+            "en": "Basket",
+            "ru": "Корзина"
+        },
+        "text": {
+            "en": "Capacity: 2 Cubic Feel/40 Pounds Of Gear",
+            "ru": "Вместимость: 2 Кубических Фута/40 Фунтов (20 Килограмм)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "bedroll.jpg",
+        "weight": "7",
+        "cost": "1 gp",
+        "category": "camp",
+        "name": {
+            "en": "Bedroll",
+            "ru": "Спальник"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "bell.jpg",
+        "weight": "0",
+        "cost": "1 gp",
+        "category": "gear",
+        "name": {
+            "en": "Bell",
+            "ru": "Колокольчик"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "blanket.jpg",
+        "weight": "3",
+        "cost": "5 sp",
+        "category": "camp",
+        "name": {
+            "en": "Blanket",
+            "ru": "Одеяло"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "block_and_tackle.jpg",
+        "weight": "5",
+        "cost": "1 sp",
+        "category": "gear",
+        "name": {
+            "en": "Block And Tackle",
+            "ru": "Блок И Лебедка"
+        },
+        "text": {
+            "en": "Aset Of Pulleys With A Cable Threaded Through Them And A Hook To Attach To Objects, A Block And Tackle Allows You To Hoist Up To Four Times The Weight You Can Normally Lift.",
+            "ru": "Набор Блоков И Тросов С Крюками Для Подвешивания Предметов. Блок И Лебёдка Позволяют Вам Поднять В Четыре Раза Больше, Чем Обычно."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "book.jpg",
+        "weight": "5",
+        "cost": "25 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Book",
+            "ru": "Книга"
+        },
+        "text": {
+            "en": "A Book Might Contain Poetry, Historical Accounts, Information Pertaining To A Particular Tield Of Lore, Diagrams And Notes On Gnomish Contraptions, Or Just About Anything Else That Can Be Represented Using Text Or Pictures. A Book Of Spells Is A <A Href='Https://Tentaculus.Ru/Equipment/#Q=Spellbook'>Spellbook</A>.",
+            "ru": "В Книге Могут Быть Стихи, Документальные Сведения, Информация О Чём-Либо, Диаграммы И Заметки О Гномьих Приспособлениях, Или Что Угодно Другое, Представленное Текстом И Картинками. <A Href='Https://Tentaculus.Ru/Equipment/#Q=Spellbook'>Книга С Заклинаниями</A> — Другое Дело."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "bottle.jpg",
+        "weight": "2",
+        "cost": "2 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Bottle, Glass",
+            "ru": "Бутылка, Стеклянная"
+        },
+        "text": {
+            "en": "Capacity: 1.5 Pints Liquid",
+            "ru": "Вместимость: 1,5 Пинты (0,75 Литра)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "bucket.jpg",
+        "weight": "2",
+        "cost": "5 cp",
+        "category": "container",
+        "name": {
+            "en": "Bucket",
+            "ru": "Ведро"
+        },
+        "text": {
+            "en": "Capacity: 3 Gallons Liquid, 1/2 Cubic Fool Solid",
+            "ru": "Вместимость: 3 Галлона (11 Литров), 0,5 Кубических Футов"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "caltrops.jpg",
+        "weight": "2",
+        "cost": "1 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Caltrops (Bag Of 20)",
+            "ru": "Калтропы (Сумка 20 Шт.)"
+        },
+        "text": {
+            "en": "As An Action, You Can Spread A Single Bag Of Caltrops To Cover A 5-Foot-Square Area. Any Creature That Enters The Area Must Succeed On A Dc 15 Dexterity Saving Throw Or Stop Moving And Take I Piercing Damage. Until The Creature Regains At Least I Hit Point, Its Walking Speed Is Reduced By 10 Feet. Acreature Moving Through The Area At Half Speed Doesn'T Need To Make The Saving Throw.",
+            "ru": "Вы Можете Действием Рассыпать Сумку Калтропов По Площади В 5 × 5 Футов. Все Существа, Входящие В Эту Область, Должны Преуспеть В Спасброске Ловкости Со Сл 15, Иначе Они Останавливаются И Получают Колющий Урон 1. Пока Это Существо Не Восстановит Как Минимум 1 Хит, Его Скорость Ходьбы Уменьшена На 10 Футов. Существо, Перемещающееся По Этой Области С Уменьшенной Вдвое Скоростью, Не Обязано Совершать Спасбросок."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "candle.jpg",
+        "weight": "0",
+        "cost": "1 cp",
+        "category": "consumables",
+        "name": {
+            "en": "Candle",
+            "ru": "Свеча"
+        },
+        "text": {
+            "en": "For I Hour, A Candle Sheds Bright Light In A 5.Foot Radius And Dim Light For An Additional 5 Feet.",
+            "ru": "В Течение 1 Часа Свеча Испускает Яркий Свет В Пределах Радиуса 5 Футов И Тусклый Свет В Пределах Ещё 5 Футов."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "case_crossbow.jpg",
+        "weight": "1",
+        "cost": "1 gp",
+        "category": "container",
+        "name": {
+            "en": "Case, Crossbow Bolt",
+            "ru": "Футляр Для Болтов"
+        },
+        "text": {
+            "en": "This Wooden Case Can Hold Up To Twenty Crossbow Bolts.",
+            "ru": "В Этот Деревянный Контейнер Помещаются 20 Арбалетных Болтов."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "case_scrolls.jpg",
+        "weight": "1",
+        "cost": "1 gp",
+        "category": "container",
+        "name": {
+            "en": "Case, Map Or Scroll",
+            "ru": "Футляр Для Документов"
+        },
+        "text": {
+            "en": "This Cylindricalleather Case Can Hold Up To Ten Rolled-Up Sheets Of Paper Or Tive Rolled-Up Sheets Of Parchment.",
+            "ru": "В Этом Цилиндрическом Кожаном Тубусе Может Храниться До Десяти Скрученных Листов Бумаги Или Пять Скрученных Листов Пергамента."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "chain.jpg",
+        "weight": "10",
+        "cost": "5 gp",
+        "category": "gear",
+        "name": {
+            "en": "Chain (10 Feet)",
+            "ru": "Цепь (10 Футов)"
+        },
+        "text": {
+            "en": "Achain Has 10 Hit Points. Lt Can Be Burst With A Successful Dc 20 Strength Check.",
+            "ru": "У Цепи 10 Хитов. Её Можно Порвать Успешной Проверкой Силы Со Сл 20."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "chalk.jpg",
+        "weight": "0",
+        "cost": "1 cp",
+        "category": "consumables",
+        "name": {
+            "en": "Chalk (1 Piece)",
+            "ru": "Мел (1 Кусок)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "chest.jpg",
+        "weight": "25",
+        "cost": "5 gp",
+        "category": "container",
+        "name": {
+            "en": "Chest",
+            "ru": "Сундук"
+        },
+        "text": {
+            "en": "Capacity: 12 Cubic Feel/300 Pounds Of Gear",
+            "ru": "Вместимость: 12 Кубических Футов/300 Фунтов (150 Килограмм)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "climbers_kit.jpg",
+        "weight": "12",
+        "cost": "25 gp",
+        "category": "kit",
+        "name": {
+            "en": "Climber'S Kit",
+            "ru": "Комплект Для Лазания"
+        },
+        "text": {
+            "en": "Aclimber'S Kit Includes Special Pitons, Boot Tips, Gloves, And A Harness. You Can Use The Climber'S Kit As An Action To Anchor Yourself; When You Do, You Can'T Fali More Than 25 Feet From The Point Where You Anchored Yourself, And You Can'T Climb More Than 25 Feet Away From That Point Without Undoing The Anchor.",
+            "ru": "В Набор Для Лазания Входят Шлямбуры, Накладные Подошвы, Перчатки И Страховочная Привязь. Вы Можете Действием Использовать Набор Для Лазания, Чтобы Закрепиться На Высоте; Если Вы Делаете Это, Вы Не Можете Упасть Более Чем На 25 Футов От Того Места, Где Закрепились, Но И Не Можете Подняться Выше 25 Футов От Этого Места, Не Открепившись."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "clothes_common.jpg",
+        "weight": "3",
+        "cost": "5 sp",
+        "category": "Clothes",
+        "name": {
+            "en": "Clothes, Common",
+            "ru": "Одежда, Обычная"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "clothes_costume.jpg",
+        "weight": "4",
+        "cost": "5 gp",
+        "category": "Clothes",
+        "name": {
+            "en": "Clothes, Costume",
+            "ru": "Одежда, Костюм"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "clothes_fine.jpg",
+        "weight": "6",
+        "cost": "15 gp",
+        "category": "Clothes",
+        "name": {
+            "en": "Clothes, Fine",
+            "ru": "Одежда, Отличная"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "clothes_travelers.jpg",
+        "weight": "4",
+        "cost": "2 gp",
+        "category": "Clothes",
+        "name": {
+            "en": "Clothes, Traveler'S",
+            "ru": "Одежда, Дорожная"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "component_pouch.jpg",
+        "weight": "2",
+        "cost": "25 gp",
+        "category": "tool",
+        "name": {
+            "en": "Component Pouch",
+            "ru": "Мешочек С Компонентами"
+        },
+        "text": {
+            "en": "A Component Pouch Is A Small, Watertight Leather Belt Pouch That Has Compartments To Hold Ali The Material Components And Other Special Items You Need To Cast Your Spells, Except For Those Components That Have A Specitic Cost (As Indicated In A Spell'S Description).",
+            "ru": "Мешочек С Компонентами Это Маленький Водонепроницаемый Кожаный Поясной Кошель С Отделениями Для Хранения Материальных Компонентов И Других Особых Предметов, Нужных Для Накладывания Заклинаний, Если Только У Этих Компонентов Не Указана Стоимость (Смотрите Описание Заклинания)."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "crowbar.jpg",
+        "weight": "5",
+        "cost": "2 gp",
+        "category": "tool",
+        "name": {
+            "en": "Crowbar",
+            "ru": "Ломик"
+        },
+        "text": {
+            "en": "Using A Crowbar Granls Advantage To Strength Checks Where The Crowbar'S Leverage Can Be Applied.",
+            "ru": "Использование Ломика Позволяет Совершать Проверки Силы С Преимуществом, Если Рычаг Должен Помочь."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "sprig_of_mistletoe.jpg",
+        "weight": "0",
+        "cost": "1 gp",
+        "category": "Druidic focus",
+        "name": {
+            "en": "Sprig Of Mistletoe",
+            "ru": "Веточка Омелы"
+        },
+        "text": {
+            "en": "A Druidic Focus Might Be A Sprig Of Mistletoe Or Holly, A Wand Or Scepter Made Of Yew Or Another Special Wood, A Staff Drawn Whole Out Of A Living Tree, Or A Totem Object Incorporating Feathers, Fur, Bones, And Teeth From Sacred Animais. Adruid Can Use Such An Object As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Фокусировкой Друида Может Быть Веточка Омелы Или Падуба, Палочка Или Скипетр Из Тиса Или Другого Дерева, Посох, Созданный Из Живого Дерева, Или Тотем С Перьями, Мехом, Костями И Зубами Священных Животных. Друид Может Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "totem.jpg",
+        "weight": "0",
+        "cost": "1 gp",
+        "category": "Druidic focus",
+        "name": {
+            "en": "Totem",
+            "ru": "Тотем"
+        },
+        "text": {
+            "en": "A Druidic Focus Might Be A Sprig Of Mistletoe Or Holly, A Wand Or Scepter Made Of Yew Or Another Special Wood, A Staff Drawn Whole Out Of A Living Tree, Or A Totem Object Incorporating Feathers, Fur, Bones, And Teeth From Sacred Animais. Adruid Can Use Such An Object As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Фокусировкой Друида Может Быть Веточка Омелы Или Падуба, Палочка Или Скипетр Из Тиса Или Другого Дерева, Посох, Созданный Из Живого Дерева, Или Тотем С Перьями, Мехом, Костями И Зубами Священных Животных. Друид Может Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "wooden_staff.jpg",
+        "weight": "4",
+        "cost": "5 gp",
+        "category": "Druidic focus",
+        "name": {
+            "en": "Wooden Staff",
+            "ru": "Деревянный Посох"
+        },
+        "text": {
+            "en": "A Druidic Focus Might Be A Sprig Of Mistletoe Or Holly, A Wand Or Scepter Made Of Yew Or Another Special Wood, A Staff Drawn Whole Out Of A Living Tree, Or A Totem Object Incorporating Feathers, Fur, Bones, And Teeth From Sacred Animais. Adruid Can Use Such An Object As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Фокусировкой Друида Может Быть Веточка Омелы Или Падуба, Палочка Или Скипетр Из Тиса Или Другого Дерева, Посох, Созданный Из Живого Дерева, Или Тотем С Перьями, Мехом, Костями И Зубами Священных Животных. Друид Может Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "yew_wand.jpg",
+        "weight": "1",
+        "cost": "10 gp",
+        "category": "Druidic focus",
+        "name": {
+            "en": "Yew Wand",
+            "ru": "Тисовая Палочка"
+        },
+        "text": {
+            "en": "A Druidic Focus Might Be A Sprig Of Mistletoe Or Holly, A Wand Or Scepter Made Of Yew Or Another Special Wood, A Staff Drawn Whole Out Of A Living Tree, Or A Totem Object Incorporating Feathers, Fur, Bones, And Teeth From Sacred Animais. Adruid Can Use Such An Object As A Spellcasting Focus, As Described In Chapter 10.",
+            "ru": "Фокусировкой Друида Может Быть Веточка Омелы Или Падуба, Палочка Или Скипетр Из Тиса Или Другого Дерева, Посох, Созданный Из Живого Дерева, Или Тотем С Перьями, Мехом, Костями И Зубами Священных Животных. Друид Может Использовать Эти Предметы В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "fishing_tackle.jpg",
+        "weight": "4",
+        "cost": "1 gp",
+        "category": "kit",
+        "name": {
+            "en": "Fishing Tackle",
+            "ru": "Комплект Для Рыбалки"
+        },
+        "text": {
+            "en": "This Kit Includes A Wooden Rod, Silken Line, Corkwood Bobbers, Steel Hooks, Lead Sinkers, Velvet Lures, And Narrow Netting.",
+            "ru": "В Этот Набор Входит Удилище, Шёлковая Леска, Пробковый Поплавок, Стальные Крючки, Свинцовые Грузила, Приманки Из Ниток И Мелкоячеистая Сеть."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "flask_or_tankard.jpg",
+        "weight": "1",
+        "cost": "2 cp",
+        "category": "container",
+        "name": {
+            "en": "Flask Or Tankard",
+            "ru": "Фляга Или Большая Кружка"
+        },
+        "text": {
+            "en": "Capacity: 1 Pint Liquid",
+            "ru": "Вместимость: 1 Пинта (0,5 Литра)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "grappling_hook.jpg",
+        "weight": "4",
+        "cost": "2 gp",
+        "category": "gear",
+        "name": {
+            "en": "Grappling Hook",
+            "ru": "Крюк-Кошка"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "hammer.jpg",
+        "weight": "3",
+        "cost": "1 gp",
+        "category": "tool",
+        "name": {
+            "en": "Hammer",
+            "ru": "Молоток"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "hammer_sledge.jpg",
+        "weight": "10",
+        "cost": "2 gp",
+        "category": "tool",
+        "name": {
+            "en": "Hammer, Sledge",
+            "ru": "Молот Кузнечный"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "healers_kit.jpg",
+        "weight": "10",
+        "cost": "2 gp",
+        "category": "kit",
+        "name": {
+            "en": "Healer'S Kit",
+            "ru": "Комплект Целителя"
+        },
+        "text": {
+            "en": "This Kit Is A Leather Pouch Containing Bandages, Salves, And Splints. The Kit Has Ten Uses. As An Action, You Can Expend One Use Of The Kit To Stabilize A Creature That Has O Hit Points, Without Needing To Make A Wisdom (Medicine) Check.",
+            "ru": "Это Кожаный Кошель С Бинтами, Мазями И Шинами. Набор Годится Для Десяти Использований. Вы Можете Действием Потратить Одно Использование Набора Для Стабилизации Существа, У Которого 0 Хитов, Не Совершая Проверку Мудрости (Медицина)."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "amulet.jpg",
+        "weight": "1",
+        "cost": "5 gp",
+        "category": "holly simbol",
+        "name": {
+            "en": "Amulet",
+            "ru": "Амулет"
+        },
+        "text": {
+            "en": "A Holy Symbol Is A Representation Of A God Or Pantheon. Lt Might Be An Amulet Depicting A Symbol Representing A Deity, The Same Symbol Carefully Engraved Or Inlaid As An Emblem On A Shield, Or A Tiny Box Holding A Fragment Of A Sacred Relic. Appendix B Lists The Symbols Commonly Associated With Many Gods In The Multiverse. Acleric Or Paladin Can Use A Holy Symbol As A Spellcasting Focus, As Described In Chapter Lo. To Use The Symbol In This Way, The Caster Must Hold It In Hand, Wear It Visibly, Or Bear It On A Shield.",
+            "ru": "Священный Символ Изображает Божество Или Целый Пантеон. Это Может Быть Амулет, Изображающий Символ Божества, Символ, Выгравированный Или Выложенный Камнями В Качестве Эмблемы На Щите, Или Крохотная Коробочка, В Которой Хранится Священная Реликвия. В Приложении Б Приводится Список Символов, Используемый Для Самых Распространённых Богов Мультивселенной. Жрец Или Паладин Может Использовать Священный Символ В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10. Для Такого Использования Символа Заклинатель Должен Держать Его В Руке, Носить У Всех На Виду Или Нести На Щите."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "emblem.jpg",
+        "weight": "0",
+        "cost": "5 gp",
+        "category": "holly simbol",
+        "name": {
+            "en": "Emblem",
+            "ru": "Эмблема"
+        },
+        "text": {
+            "en": "A Holy Symbol Is A Representation Of A God Or Pantheon. Lt Might Be An Amulet Depicting A Symbol Representing A Deity, The Same Symbol Carefully Engraved Or Inlaid As An Emblem On A Shield, Or A Tiny Box Holding A Fragment Of A Sacred Relic. Appendix B Lists The Symbols Commonly Associated With Many Gods In The Multiverse. Acleric Or Paladin Can Use A Holy Symbol As A Spellcasting Focus, As Described In Chapter Lo. To Use The Symbol In This Way, The Caster Must Hold It In Hand, Wear It Visibly, Or Bear It On A Shield.",
+            "ru": "Священный Символ Изображает Божество Или Целый Пантеон. Это Может Быть Амулет, Изображающий Символ Божества, Символ, Выгравированный Или Выложенный Камнями В Качестве Эмблемы На Щите, Или Крохотная Коробочка, В Которой Хранится Священная Реликвия. В Приложении Б Приводится Список Символов, Используемый Для Самых Распространённых Богов Мультивселенной. Жрец Или Паладин Может Использовать Священный Символ В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10. Для Такого Использования Символа Заклинатель Должен Держать Его В Руке, Носить У Всех На Виду Или Нести На Щите."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "reliquary.jpg",
+        "weight": "2",
+        "cost": "5 gp",
+        "category": "holly simbol",
+        "name": {
+            "en": "Reliquary",
+            "ru": "Реликварий"
+        },
+        "text": {
+            "en": "A Holy Symbol Is A Representation Of A God Or Pantheon. Lt Might Be An Amulet Depicting A Symbol Representing A Deity, The Same Symbol Carefully Engraved Or Inlaid As An Emblem On A Shield, Or A Tiny Box Holding A Fragment Of A Sacred Relic. Appendix B Lists The Symbols Commonly Associated With Many Gods In The Multiverse. Acleric Or Paladin Can Use A Holy Symbol As A Spellcasting Focus, As Described In Chapter Lo. To Use The Symbol In This Way, The Caster Must Hold It In Hand, Wear It Visibly, Or Bear It On A Shield.",
+            "ru": "Священный Символ Изображает Божество Или Целый Пантеон. Это Может Быть Амулет, Изображающий Символ Божества, Символ, Выгравированный Или Выложенный Камнями В Качестве Эмблемы На Щите, Или Крохотная Коробочка, В Которой Хранится Священная Реликвия. В Приложении Б Приводится Список Символов, Используемый Для Самых Распространённых Богов Мультивселенной. Жрец Или Паладин Может Использовать Священный Символ В Качестве Фокусировки Для Заклинаний, Как Описано В Главе 10. Для Такого Использования Символа Заклинатель Должен Держать Его В Руке, Носить У Всех На Виду Или Нести На Щите."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "holy_water.jpg",
+        "weight": "1",
+        "cost": "25 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Holy Water (Flask)",
+            "ru": "Святая Вода (Фляга)"
+        },
+        "text": {
+            "en": "As An Action, You Can Splash The Contents Of This Liask Onto A Creature Within 5 Feet Of You Or Throw It Up To 20 Feet, Shattering It On Impact. In Either Case, Make A Ranged Attack Against A Target Creature, Treating The Holy Water As An Improvised Weapon. If The Target Is A Tiend Or Undead, It Takes 2D6 Radiant Damage.",
+            "ru": "Вы Можете Действием Облить Содержимым Этой Фляги Существо, Находящееся В Пределах 5 Футов, Или Кинуть Флягу На 20 Футов, Ломая При Ударе. Совершите Дальнобойную Атаку По Целевому Существу, Считая Святую Воду Импровизированным Оружием. Если Цель — Изверг Или Нежить, Она Получает Урон Излучением 2К6.<Br>Жрец Или Паладин Может Создать Святую Воду, Исполнив Особый Ритуал. Этот Ритуал Исполняется 1 Час, Использует Толчёное Серебро На 25 Зм И Требует, Чтобы Заклинатель Потратил Ячейку Заклинаний 1 Уровня."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "hourglass.jpg",
+        "weight": "1",
+        "cost": "25 gp",
+        "category": "gear",
+        "name": {
+            "en": "Hourglass",
+            "ru": "Песочные Часы"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "hunting_trap.jpg",
+        "weight": "25",
+        "cost": "5 gp",
+        "category": "gear",
+        "name": {
+            "en": "Hunting Trap",
+            "ru": "Охотничий Капкан"
+        },
+        "text": {
+            "en": "When You Use Your Action To Set It, This Trap Forms A Saw-Toothed Steel Ring That Snaps Shut When A Creature Steps On Apressure Plate In The Center. The Trap Is Affixed Bya Heavy Chain To An Immobi!E Object, Such As A Tree Ar A <A Href='Https://Tentaculus.Ru/Equipment/#Q=Spike'>Spike</A> Driven Into The Ground. A Creature That Steps On The Plate Must Succeed On A Dc 13 Dexterity Saving Throw Ar Take Id4 Piercing Damage And Stop Moving. Thereafter, Unti! The Creature Breaks Free Of The Trap, Its Movement Is Limited By The Length Of The Chain (Typically 3 Feet Long). Acreature Can Use Its Action To Make A Dc 13 5Trength Check, Freeing Itself Ar Another Creature Within Its Reach On A Success. Each Fai!Ed Check Deals 1 Piercing Damage To The Trapped Creature.",
+            "ru": "Если Вы Действием Установите Эту Ловушку, Она Образует Стальное Кольцо С Зазубренными Краями, Которая Захлопывается, Когда В Её Центр Наступает Существо. Капкан Привязывается Толстой Цепью К Неподвижному Предмету, Такому Как Дерево Или <A Href='Https://Tentaculus.Ru/Equipment/#Q=Spike'>Колышек</A>, Вбитый В Землю. Существо, Наступившее В Центр, Должно Преуспеть В Спасброске Ловкости Со Сл 13, Иначе Оно Получает Колющий Урон 1К4 И Прекращает Перемещение. Впоследствии, Пока Существо Не Высвободится Из Ловушки, Его Перемещения Ограничены Длиной Цепи (Обычно 1 Метр). Любое Существо Может Действием Совершить Проверку Силы Со Сл 13, Чтобы Высвободить Себя Или Другое Существо, Находящееся В Пределах Досягаемости. Каждая Проваленная Проверка Причиняет Пойманному Существу Колющий Урон 1."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "ink.jpg",
+        "weight": "0",
+        "cost": "10 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Ink (1 Ounce Bottle)",
+            "ru": "Чернила (Бутылочка 30 Грамм)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "ink_pen.jpg",
+        "weight": "0",
+        "cost": "2 cp",
+        "category": "tool",
+        "name": {
+            "en": "Ink Pen",
+            "ru": "Писчее Перо"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "jug.jpg",
+        "weight": "4",
+        "cost": "2 cp",
+        "category": "container",
+        "name": {
+            "en": "Jug Or Pitcher",
+            "ru": "Кувшин Или Графин"
+        },
+        "text": {
+            "en": "Capacity: 1 Gallon Liquid",
+            "ru": "Вместимость: 1 Галлон (3,75 Литра)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "ladder.jpg",
+        "weight": "25",
+        "cost": "1 sp",
+        "category": "gear",
+        "name": {
+            "en": "Ladder (10-Foot)",
+            "ru": "Лестница (10 Футов)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "lamp.jpg",
+        "weight": "1",
+        "cost": "5 sp",
+        "category": "tool",
+        "name": {
+            "en": "Lamp",
+            "ru": "Лампа"
+        },
+        "text": {
+            "en": "A Lamp Casts Bright Light In A 15-Foot Radius And Dim Light For An Additional 30 Feet. Once Lit, Il Burns For 6 Hours On A <A Href='Https://Tentaculus.Ru/Equipment/#Q=Oil'>Flask (1 Pint) Of Oil</A>.",
+            "ru": "Лампа Испускает Яркий Свет В Пределах 15 Футов И Тусклый Свет В Пределах Ещё 30 Футов. Зажжённая Лампа Горит 6 Часов От Одной <A Href='Https://Tentaculus.Ru/Equipment/#Q=Oil'>Фляги (1 Пинта [0,5 Литра]) Масла</A>."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "lantern_bullseye.jpg",
+        "weight": "2",
+        "cost": "10 gp",
+        "category": "tool",
+        "name": {
+            "en": "Lantern, Bullseye",
+            "ru": "Фонарь, Направленный"
+        },
+        "text": {
+            "en": "A Bullseye Lantern Casts Bright Light In A 60-Foot Cone And Dim Light For An Additional 60 Feet. Once Lit, It Burns For 6 Hours On A <A Href='Https://Tentaculus.Ru/Equipment/#Q=Oil'>Flask (1 Pint) Of Oil</A>.",
+            "ru": "Направленный Фонарь Испускает Яркий Свет 60-Футовым Конусом И Тусклый Свет В Пределах Ещё 60 Футов. Зажжённый Фонарь Горит 6 Часов От Одной <A Href='Https://Tentaculus.Ru/Equipment/#Q=Oil'>Фляги (1 Пинта [0,5 Литра]) Масла</A>."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "lantern_hooded.jpg",
+        "weight": "2",
+        "cost": "5 gp",
+        "category": "tool",
+        "name": {
+            "en": "Lantern, Hooded",
+            "ru": "Фонарь, Закрытый"
+        },
+        "text": {
+            "en": "A Hooded Lantern Casts Bright Light In A 30-Foot Radius And Dim Light For An Additional 30 Feet. Once Lit, It Burns For 6 Hours On A <A Href='Https://Tentaculus.Ru/Equipment/#Q=Oil'>Flask (1 Pinl) Of Oil</A>. As An Action, You Can Lower The Hood, Reducing The Light Lo Dim Light In A 5-Foot Radius.",
+            "ru": "Закрытый Фонарь Испускает Яркий Свет В Пределах 30 Футов И Тусклый Свет В Пределах Ещё 30 Футов. Зажжённый Фонарь Горит 6 Часов От <A Href='Https://Tentaculus.Ru/Equipment/#Q=Oil'>Одной Фляги (1 Пинта [0,5 Литра]) Масла</A>. Вы Можете Действием Опустить Козырёк, Уменьшив Освещение До Тусклого Света В Пределах 5 Футов."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "lock.jpg",
+        "weight": "1",
+        "cost": "10 gp",
+        "category": "gear",
+        "name": {
+            "en": "Lock",
+            "ru": "Замóк"
+        },
+        "text": {
+            "en": "A Key Is Provided With The Lock. Without The Key, A Creature Proticient With Thieves' Toois Can Pick This Lock With A Successful Dc 15 Dexterity Check. Vour Dm May Decide That Better Locks Are Available For Higher Prices.",
+            "ru": "Вместе С Замком Идёт И Ключ. Без Ключа Существо, Владеющее Воровскими Инструментами, Может Вскрыть Замок Успешной Проверкой Ловкости Со Сл 15. Мастер Может Решить, Что Есть Более Качественные Замки, Стоящие Больше."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "magnifying_glass.jpg",
+        "weight": "0",
+        "cost": "100 gp",
+        "category": "tool",
+        "name": {
+            "en": "Magnifying Glass",
+            "ru": "Увеличительное Стекло"
+        },
+        "text": {
+            "en": "This Lens Allows A Closer Look At Small Objects. It Is Also Useful As A Substitute For Flint And Steel When Starting Tires. Lighting A Fire With A Magnifying Glass Requires Light As Bright As Sunlight To Focus, Tinder To Ignite, And About 5 Minutes For The Fire To Ignite. A Magnifying Glass Grants Advantage On Any Ability Check Made To Appraise Ar Inspect An Item That Is Small Ar Highly Detailed.",
+            "ru": "Эта Линза Позволяет Разглядывать Маленькие Предметы. Линзу Также Можно Использовать Для Замены Кремня И Кресала. Разжигание Огня Увеличительным Стеклом Требует Света, Яркого Как Свет Солнца, Трута Для Розжига И Примерно 5 Минут. Увеличительное Стекло Позволяет Совершать С Преимуществом Проверки Характеристик, Сделанных Для Оценки Или Исследования Мелких И Высокодетализированных Предметов."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "manacles.jpg",
+        "weight": "6",
+        "cost": "2 gp",
+        "category": "gear",
+        "name": {
+            "en": "Manacles",
+            "ru": "Кандалы"
+        },
+        "text": {
+            "en": "These Metal Restraints Can Bind A 5Mall Ar Medium Creature. Escaping The Manacles Requires A Successful Dc 20 Dexterity Check. Breaking Them Requires A Successful Dc 20 5Trength Check. Each Set Of Manacles Comes With One Key. Without The Key, A Creature Pro/Icient With Thieves' Tools Can Pick The Manacles' Lock With A Successful Dc 15 Dexterity Check. Manacles Have 15 Hit Points.",
+            "ru": "Эти Металлические Оковы Удерживают Существ Маленького И Среднего Размера. Для Того Чтобы Сбежать Из Кандалов, Требуется Успешная Проверка Ловкости Со Сл 20. Для Того Чтобы Их Сломать, Требуется Проверка Силы Со Сл 20. Каждый Набор Кандалов Идёт С Одним Ключом. Без Ключа Существо, Владеющее Воровскими Инструментами, Может Вскрыть Замок Кандалов Успешной Проверкой Ловкости Со Сл 15. У Кандалов 15 Хитов"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "mess_kit.jpg",
+        "weight": "1",
+        "cost": "2 sp",
+        "category": "kit",
+        "name": {
+            "en": "Mess Kit",
+            "ru": "Столовый Набор"
+        },
+        "text": {
+            "en": "This Tin Box Contains A Cup And Simple Cutlery. The Box Clamps Together, And One Side Can Be Used As A Cooking Pan And The Other As A Plate Or Shallow Bowl.",
+            "ru": "В Этой Небольшой Коробке Находится Чашка И Простые Столовые Приборы. Коробка Раскрывается, И Одна Сторона Может Использоваться Как Сковорода, А Другая — Как Тарелка Или Неглубокая Миска."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "mirror_steel.jpg",
+        "weight": "1/2",
+        "cost": "5 gp",
+        "category": "gear",
+        "name": {
+            "en": "Mirror, Steel",
+            "ru": "Зеркало, Стальное"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "oil.jpg",
+        "weight": "1",
+        "cost": "1 sp",
+        "category": "consumables",
+        "name": {
+            "en": "Oil (Flask)",
+            "ru": "Масло (Фляга)"
+        },
+        "text": {
+            "en": "Oil Usually Comes In A Clay Flask That Holds 1Pintoas An Action, You Can Splash The Oi! In This Flaskanta A Creature Within 5 Feet Of You Ar Throw It Up To20 Feet, Shattering It On Impacto Make A Ranged Attackagainst A Target Creature Ar Object, Treating The Oil Asan Improvised Weapon. On A Hit, The Target Is Coveredin Oil. If The Larget Takes Any /Ire Damage Before The Oildries (After 1 Minute), The Target Takes An Additional 5 Fire Damagc From The Burning Oil. Vou Can Also Pour A Flask Of Oi! On The Ground To Cover A 5-Foot-Square Area, Provided That The Surface Is Levei. Ir Lit. The Oi! Burns For 2 Rounds And Deals 5 Tire Damage To Any Creature That Enters The Area Ar Ends Its Turn In The Area, A Creature Can Take This Damage Only Once Per Turno",
+            "ru": "Обычно Масло Продаётся В Глиняных Флягах По 1 Пинте (0,5 Литра). Вы Можете Действием Облить Маслом Из Фляги Существо, Находящееся В Пределах 5 Футов, Или Кинуть Её На 20 Футов, Ломая При Ударе. Совершите Дальнобойную Атаку По Целевому Существу Или Предмету, Считая Масло Импровизированным Оружием. При Попадании Цель Покрывается Маслом. Если Цель Получает Урон Огнём, Пока Масло Не Высохло (1 Минута), Она Получает Дополнительный Урон Огнём 5 От Горящего Масла. Вы Можете Также Вылить Фляжку Масла На Землю, Покрыв Площадь 5 × 5 Футов, При Условии, Что Пол Ровный. Если Теперь Масло Поджечь, Оно Горит 2 Раунда И Причиняет Урон Огнём 5 Всем Существам, Входящим В Эту Область Или Оканчивающим В Ней Ход. Существо Может Получить Этот Урон Только Один Раз За Ход."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "parchment.jpg",
+        "weight": "0",
+        "cost": "1 sp",
+        "category": "consumables",
+        "name": {
+            "en": "Parchment (One Sheet)",
+            "ru": "Пергамент (1 Лист)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "paper.jpg",
+        "weight": "0",
+        "cost": "2 sp",
+        "category": "consumables",
+        "name": {
+            "en": "Paper (One Sheet)",
+            "ru": "Бумага (1 Лист)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "perfume.jpg",
+        "weight": "0",
+        "cost": "5 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Perfume (Vial)",
+            "ru": "Духи́ (Флакон)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "piek_miners.jpg",
+        "weight": "10",
+        "cost": "2 gp",
+        "category": "tool",
+        "name": {
+            "en": "Piek, Miner'S",
+            "ru": "Кирка, Горняцкая"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "piton.jpg",
+        "weight": "1/4",
+        "cost": "5 cp",
+        "category": "gear",
+        "name": {
+            "en": "Piton",
+            "ru": "Шлямбур"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "poison_basic.jpg",
+        "weight": "",
+        "cost": "100 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Poison, Basic (Vial)",
+            "ru": "Яд, Простой (Флакон)"
+        },
+        "text": {
+            "en": "Vou Can Use The Poison In Ihis Via Ilocoat One Slashing Or Piercing Weapon Or Up To Threepieces Of Ammunition. Applying The Poison Takesan Action. A Creature Hit By The Poisoned Weapon Orammunition Must Make A Dc 10 Constitution Savingthrow Or Take 1D4 Poison Damage. Once Applied, Thepoison Retains Potency For I Minute Before Drying.",
+            "ru": "Вы Можете Покрыть Ядом Из Этого Флакона Одно Рубящее Или Колющее Оружие Или Три Боеприпаса. Наносится Яд Одним Действием. Существо, По Которому Попадёт Отравленное Оружие Или Боеприпас, Должно Совершить Спасбросок Телосложения Со Сл 10, Получая В Случае Провала Урон Ядом 1К4. Нанесённый Яд Эффективен 1 Минуту, После Чего Высыхает."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "pole.jpg",
+        "weight": "7",
+        "cost": "5 cp",
+        "category": "gear",
+        "name": {
+            "en": "Pole (10-Foot)",
+            "ru": "Шест (10 Футов)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "pot.jpg",
+        "weight": "10",
+        "cost": "2 gp",
+        "category": "tool",
+        "name": {
+            "en": "Pot, Iron",
+            "ru": "Горшок, Железный"
+        },
+        "text": {
+            "en": "Capacity: 1 Gallon Liquid",
+            "ru": "Вместимость: 1 Галлон (3,75 Литра)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "potion_of_healing.jpg",
+        "weight": "1/2",
+        "cost": "50 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Potion Of Healing",
+            "ru": "Зелье Лечения"
+        },
+        "text": {
+            "en": "Character Who Drinks The Magical Red Fiuid In This Vial Regains 2D4 + 2 Hit Points. Drinking Or Administering A Potion Takes An Action.",
+            "ru": "Существо, Выпившее Магическую Красную Жидкость Из Этого Флакона, Восстанавливает 2К4 + 2 Хита. Зелье Выпивается Или Заливается В Рот Другому Действием."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "pouch.jpg",
+        "weight": "1",
+        "cost": "5 sp",
+        "category": "container",
+        "name": {
+            "en": "Pouch",
+            "ru": "Кошель"
+        },
+        "text": {
+            "en": "A C1Oth Or Leather Pouch Can Hold Up To 20 Sling Bullets Or 50 Blowgun Needles, Among Other Things. A Compartmentalized Pouch For Holding Spell Components Is Called A <A Href='Https://Tentaculus.Ru/Equipment/#Q=Component_Pouch'>Component Pouch</A>.<Br>Capacity: 1/5 Cubic Foot/6 Pounds Of Gear",
+            "ru": "В Кожаном Или Тканевом Кошеле Поместится 20 Снарядов Для Пращи Или 50 Иголок Для Духовой Трубки, А Также Другие Вещи. Кошель С Отделениями Для Хранения Компонентов Заклинаний Называется <A Href='Https://Tentaculus.Ru/Equipment/#Q=Component_Pouch'>Мешочком С Компонентами</A>.<Br>0,2 Кубических Фута/6 Фунтов (3 Килограмма)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "quiver.jpg",
+        "weight": "1",
+        "cost": "1 gp",
+        "category": "container",
+        "name": {
+            "en": "Quiver",
+            "ru": "Колчан"
+        },
+        "text": {
+            "en": "Quiver Can Hold Up To 20 Arrows.",
+            "ru": "В Колчан Помещается 20 Стрел."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "ram.jpg",
+        "weight": "35",
+        "cost": "4 gp",
+        "category": "gear",
+        "name": {
+            "en": "Ram, Portable",
+            "ru": "Таран, Переносной"
+        },
+        "text": {
+            "en": "Vou Can Use A Portable Ram To Break Down Doors. When Doing So, You Gain A +4 Bonus On The Strength Check. One Other Character Can Help You Use The Ram, Giving You Advantage On This Check.",
+            "ru": "Вы Можете Вышибать Портативным Тараном Двери. Вы Получаете Бонус +4 К Проверкам Силы. Если Другой Персонаж Помогает Вам Использовать Таран, Вы Совершаете Проверку С Преимуществом."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "rations.jpg",
+        "weight": "2",
+        "cost": "5 sp",
+        "category": "consumables",
+        "name": {
+            "en": "Rations (1 Day)",
+            "ru": "Рационы (1 День)"
+        },
+        "text": {
+            "en": "Rations Consist Of Dry Foods Suitable For Extended Travei, Including Jerky, Dried Fruit, Hardlack, And Nuts.",
+            "ru": "Рационы Состоят Из Обезвоженной Пищи, Подходящей Для Путешествий, Включая Вяленое Мясо, Сухофрукты, Галеты И Орехи."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "robes.jpg",
+        "weight": "4",
+        "cost": "1 gp",
+        "category": "clothes",
+        "name": {
+            "en": "Robes",
+            "ru": "Ряса"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "rope_hempen.jpg",
+        "weight": "10",
+        "cost": "1 gp",
+        "category": "gear",
+        "name": {
+            "en": "Rope, Hempen (50 Feet)",
+            "ru": "Верёвка Пеньковая (50 Футов)"
+        },
+        "text": {
+            "en": "Rope, Whether Made Of Hemp Or Silk, Has 2 Hit Points And Can Be Burst With A Dc 17 Strenglh Check.",
+            "ru": "У Верёвки, Сделанной Из Пеньки Или Шёлка, 2 Хита, И Её Можно Порвать Проверкой Силы Со Сл 17."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "rope_silk.jpg",
+        "weight": "5",
+        "cost": "10 gp",
+        "category": "gear",
+        "name": {
+            "en": "Rope, Silk (50 Feet)",
+            "ru": "Верёвка, Шёлковая (50 Футов)"
+        },
+        "text": {
+            "en": "Rope, Whether Made Of Hemp Or Silk, Has 2 Hit Points And Can Be Burst With A Dc 17 Strenglh Check.",
+            "ru": "У Верёвки, Сделанной Из Пеньки Или Шёлка, 2 Хита, И Её Можно Порвать Проверкой Силы Со Сл 17."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "sack.jpg",
+        "weight": "1/2",
+        "cost": "1 cp",
+        "category": "container",
+        "name": {
+            "en": "Sack",
+            "ru": "Мешок"
+        },
+        "text": {
+            "en": "Capacity: 1 Cubic F001/30 Pounds Of Gear",
+            "ru": "Вместимость: 1 Кубический Фут/30 Фунтов (15 Килограмм)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "scale.jpg",
+        "weight": "3",
+        "cost": "5 gp",
+        "category": "tool",
+        "name": {
+            "en": "Scale, Merchant'S",
+            "ru": "Весы, Торговые"
+        },
+        "text": {
+            "en": "A Scale Includes A Small Balance,Pans, And A Suitable Assortment Of Weights Up To 2Pounds. With It, You Can Measure The Exact Weight Ofsmall Objects, Such As Raw Precious Metais Or Tradegoods, To Help Determine Their Worth.",
+            "ru": "В Набор Входят Рычажные Весы, Чашки И Набор Грузиков На 2 Фунта. С Их Помощью Можно Точно Измерять Вес Небольших Предметов, Таких Как Драгоценные Металлы Или Товары."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "sealing_wax.jpg",
+        "weight": "",
+        "cost": "5 sp",
+        "category": "consumables",
+        "name": {
+            "en": "Sealing Wax",
+            "ru": "Сургуч"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "shovel.jpg",
+        "weight": "5",
+        "cost": "2 gp",
+        "category": "tool",
+        "name": {
+            "en": "Shovel",
+            "ru": "Лопата"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "signal_whistle.jpg",
+        "weight": "0",
+        "cost": "5 cp",
+        "category": "tool",
+        "name": {
+            "en": "Signal Whistle",
+            "ru": "Сигнальный Свисток"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "signet_ring.jpg",
+        "weight": "0",
+        "cost": "5 gp",
+        "category": "tool",
+        "name": {
+            "en": "Signet Ring",
+            "ru": "Кольцо-Печатка"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "soap.jpg",
+        "weight": "0",
+        "cost": "2 cp",
+        "category": "consumables",
+        "name": {
+            "en": "Soap",
+            "ru": "Мыло"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "spellbook.jpg",
+        "weight": "3",
+        "cost": "50 gp",
+        "category": "tool",
+        "name": {
+            "en": "Spellbook",
+            "ru": "Книга Заклинаний"
+        },
+        "text": {
+            "en": "Essential For Wizards, A Spellbook Is A Lealher.Bound Tome Wilh 100 Blank Vellum Pages Suitable For Recording Spells.",
+            "ru": "Книги Заклинаний Очень Важны Для Волшебников. Это Переплетённые Кожей Тома, Содержащие 100 Пустых Пергаментных Страниц, На Которых Можно Записывать Заклинания."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "spikes.jpg",
+        "weight": "5",
+        "cost": "1 gp",
+        "category": "consumables",
+        "name": {
+            "en": "Spikes, Iron (10)",
+            "ru": "Шипы, Железные (10)"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "spyglass.jpg",
+        "weight": "1",
+        "cost": "1000 gp",
+        "category": "gear",
+        "name": {
+            "en": "Spyglass",
+            "ru": "Подзорная Труба"
+        },
+        "text": {
+            "en": "Objeets Viewed Through A Spyglass Are Magnitied To Twice Their Size.",
+            "ru": "Предметы, На Которые Смотрят В Подзорную Трубу, Увеличиваются В Два Раза"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "tent.jpg",
+        "weight": "20",
+        "cost": "2 gp",
+        "category": "camp",
+        "name": {
+            "en": "Tent, Two-Person",
+            "ru": "Палатка, Двуместная"
+        },
+        "text": {
+            "en": "A Simple And Portable Canvas Shelter, A Tent Sleeps Two.",
+            "ru": "В Палатке, Простом Парусиновом Жилище, Могут Спать Двое."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "tinderbox.jpg",
+        "weight": "1",
+        "cost": "5 sp",
+        "category": "tool",
+        "name": {
+            "en": "Tinderbox",
+            "ru": "Трутница"
+        },
+        "text": {
+            "en": "This Small Container Holds Fiint, Tire Steel,And Tinder (Usually Dry C10Th Soaked In Iight Oil) Used Lokindle A Tire. Using It To Iight A Torch-Or Anything Elsewith Abundant, Exposed Fuel-Takes An Action. Lightingany Olher Tire Takes 1 Minute.",
+            "ru": "В Этом Небольшом Контейнере Находится Кремень, Кресало И Трут (Обычно Это Сухая Тряпка, Вымоченная В Масле), Используемые Для Разжигания Огня. Использование Его Для Разжигания Факела — Или Чего-Нибудь Другого, Легковоспламеняющегося — Требует Одного Действия. Разжигание Другого Огня Требует 1 Минуты."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "torch.jpg",
+        "weight": "1",
+        "cost": "1 cp",
+        "category": "consumables",
+        "name": {
+            "en": "Torch",
+            "ru": "Факел"
+        },
+        "text": {
+            "en": "A Torch Burns For 1 Hour, Providing Bright Iight In A 20.Foot Radius And Dim Light For An Additional 20 Fee!. If You Make A Melee Attack With A Burning Torch And Hit, It Deals 1 Tire Damage.",
+            "ru": "Факел Горит 1 Час, Испуская Яркий Свет В Пределах 20 Футов И Тусклый Свет В Пределах Ещё 20 Футов. Если Вы Совершаете Рукопашную Атаку Горящим Факелом И Попадаете, Он Причиняет Урон Огнём 1."
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "vial.jpg",
+        "weight": "0",
+        "cost": "1 gp",
+        "category": "container",
+        "name": {
+            "en": "Vial",
+            "ru": "Флакон"
+        },
+        "text": {
+            "en": "Capacity: 4 Ounces Liquid",
+            "ru": "Вместимость: 4 Унции (100 Грамм)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "waterskin.jpg",
+        "weight": "5",
+        "cost": "2 sp",
+        "category": "container",
+        "name": {
+            "en": "Waterskin",
+            "ru": "Бурдюк"
+        },
+        "text": {
+            "en": "Capacity: Pinls Liquid<Br>(Weight Is For Full Waterscin)",
+            "ru": "Вместимость: 4 Пинты (2 Литра)<Br>(Вес Указан Для Заполненного Бурдюка)"
+        }
+    },
+    {
+        "rarity": 0,
+        "img": "whetstone.jpg",
+        "weight": "1",
+        "cost": "1 cp",
+        "category": "tool",
+        "name": {
+            "en": "Whetstone",
+            "ru": "Точильный Камень"
+        },
+        "text": {
+            "en": "",
+            "ru": ""
+        }
+    }
+]
