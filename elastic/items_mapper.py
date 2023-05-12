@@ -8,15 +8,14 @@ mapping = {
                 "properties": {
                     "name": {"properties": {"en": {"type": "text"}, "ru": {"type": "text"}}},
                     "text": {"properties": {"en": {"type": "text"}, "ru": {"type": "text"}}},
-                    "props":{"type": "text"},
-                    "damageType":{"type": "keyword"},
-                    "category": {"type": "keyword"},
-                    "typeAdditions": {"type": "keyword"}
+                    "categoty": {"type": "keyword"},
+                    "attunement": {"properties": {"en": {"type": "keyword"}, "ru": {"type": "keyword"}}},
+                    "typeAdditions": {"properties": {"en": {"type": "keyword"}, "ru": {"type": "keyword"}}},
 
                 }
             }
         }
 }
 
-es.indices.create(index="equipment", mappings=mapping)
+es.indices.create(index="items", mappings=mapping)
 

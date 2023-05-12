@@ -54,6 +54,9 @@ localhost/character<ID>
 4. ~~Procces equipment into JSON.~~
 5. ~~Map equipment.~~
 4. ~~Index equipment.~~
+4. ~~Procces items into JSON.~~
+5. ~~Map items.~~
+4. ~~Index items.~~
 6. Map Class abilities.
 7. Map Race abilities.
 5. Procces class and race abilities into JSON.
