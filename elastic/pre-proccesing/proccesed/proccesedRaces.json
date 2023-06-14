@@ -1,7 +1,7 @@
 [
     {
         "race_name": "Dwarf",
-        "ability_score_increase": {
+        "ability_score": {
             "Constitution": 2
         },
         "size": "Medium",
@@ -22,7 +22,7 @@
         "race_name": "Hill Dwarf",
         "size": "Medium",
         "speed": 25,
-        "ability_score_increase": {
+        "ability_score": {
             "Wisdom": 1,
             "Constitution": 2
         },
@@ -41,7 +41,7 @@
     },
     {
         "race_name": "Elf",
-        "ability_score_increase": {
+        "ability_score": {
             "Dexterity": 2
         },
         "size": "Medium",
@@ -62,7 +62,7 @@
     },
     {
         "race_name": "High Elf",
-        "ability_score_increase": {
+        "ability_score": {
             "Intelligence": 1,
             "Dexterity": 2
         },
@@ -87,7 +87,7 @@
     },
     {
         "race_name": "Halfling",
-        "ability_score_increase": {
+        "ability_score": {
             "Dexterity": 2
         },
         "size": "Small",
@@ -106,7 +106,7 @@
         "race_name": "Lightfoot",
         "size": "Small",
         "speed": 25,
-        "ability_score_increase": {
+        "ability_score": {
             "Charisma": 1,
             "Dexterity": 2
         },
@@ -123,7 +123,7 @@
     },
     {
         "race_name": "Human",
-        "ability_score_increase": {
+        "ability_score": {
             "Charisma": 1,
             "Strength": 1,
             "Dexterity": 1,
@@ -139,7 +139,7 @@
     },
     {
         "race_name": "Dragonborn",
-        "ability_score_increase": {
+        "ability_score": {
             "Strenght": 2,
             "Charisma": 1
         },
@@ -237,7 +237,7 @@
     },
     {
         "race_name": "Gnome",
-        "ability_score_increase": {
+        "ability_score": {
             "Intelligence": 2
         },
         "size": "Small",
@@ -255,7 +255,7 @@
         "race_name": "Rock Gnome",
         "Subrace": true,
         "Inherit": "Gnome",
-        "ability_score_increase": {
+        "ability_score": {
             "Сonstitution": 1
         },
         "inate_abilities": {
@@ -265,7 +265,7 @@
     },
     {
         "race_name": "Half-elf",
-        "ability_score_increase": {
+        "ability_score": {
             "Charisma": 1
         },
         "size": "Medium",
@@ -281,95 +281,26 @@
         ],
         "player_choice": [
             {
-                "ability_score_increase": {
+                "ability_score": {
                     "Message": "As a half-elf you choose two ability scores to increase by 1.",
                     "Selection": 2,
-                    "Choices": [
-                        {
-                            "Strength": 1
-                        },
-                        {
-                            "Dexterity": 1
-                        },
-                        {
-                            "Constitution": 1
-                        },
-                        {
-                            "Intelligence": 1
-                        },
-                        {
-                            "Wisdom": 1
-                        }
-                    ]
+                    "Bonus": 1,
+                    "Choices_excludes": ["Charisma"]
                 }
             },
             {
                 "proficiencies": {
                     "Message": "Due to your skill versatility, you gain proficiency in two skills of your choice",
                     "Selection": 2,
-                    "Choices": [
-                        {
-                            "Athletics": 1
-                        },
-                        {
-                            "Acrobatics": 1
-                        },
-                        {
-                            "Sleight of Hand": 1
-                        },
-                        {
-                            "Stealth": 1
-                        },
-                        {
-                            "Arcana": 1
-                        },
-                        {
-                            "History": 1
-                        },
-                        {
-                            "Investigation": 1
-                        },
-                        {
-                            "Nature": 1
-                        },
-                        {
-                            "Religion": 1
-                        },
-                        {
-                            "Animal Handling": 1
-                        },
-                        {
-                            "Insight": 1
-                        },
-                        {
-                            "Medicine": 1
-                        },
-                        {
-                            "Perception": 1
-                        },
-                        {
-                            "Survival": 1
-                        },
-                        {
-                            "Deception": 1
-                        },
-                        {
-                            "Intimidation": 1
-                        },
-                        {
-                            "Performance": 1
-                        },
-                        {
-                            "Persuasion": 1
-                        }
-                    ]
+                    "Bonus": 1,
+                    "Choices": []
                 }
             }
         ]
     },
     {
         "race_name": "Half-orc",
-        "ability_score_increase": {
+        "ability_score": {
             "Strenght": 2,
             "Constitution": 1
         },
@@ -391,7 +322,7 @@
     },
     {
         "race_name": "Thiefling",
-        "ability_score_increase": {
+        "ability_score": {
             "Intelligence": 1,
             "Charisma": 2
         },
@@ -405,6 +336,7 @@
         "languages": [
             "Common",
             "Infernal"
-        ]
+        ],
+        "spells": [30, 45, 60]
     }
 ]

@@ -299,5 +299,62 @@
         "11": {"en": "Half-elf", "ru": "Полуэльф"},
         "12": {"en": "Half-orc", "ru": "Полуорк"},
         "13": {"en": "Thiefling", "ru": "Дварф"}
+    },
+    "skills": {
+    {
+        "Athletics": 1
+    },
+    {
+        "Acrobatics": 1
+    },
+    {
+        "Sleight of Hand": 1
+    },
+    {
+        "Stealth": 1
+    },
+    {
+        "Arcana": 1
+    },
+    {
+        "History": 1
+    },
+    {
+        "Investigation": 1
+    },
+    {
+        "Nature": 1
+    },
+    {
+        "Religion": 1
+    },
+    {
+        "Animal Handling": 1
+    },
+    {
+        "Insight": 1
+    },
+    {
+        "Medicine": 1
+    },
+    {
+        "Perception": 1
+    },
+    {
+        "Survival": 1
+    },
+    {
+        "Deception": 1
+    },
+    {
+        "Intimidation": 1
+    },
+    {
+        "Performance": 1
+    },
+    {
+        "Persuasion": 1
     }
+}
+
 }

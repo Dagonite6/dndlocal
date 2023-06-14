@@ -47,20 +47,18 @@ localhost/character<ID>
 4. ~~Setup DRF for character creation, list, update, delete.~~
 4. ~~Install Elasticsearch.~~
 4. ~~Procces spells into our JSON format.~~
-5. ~~Map spells.~~
 5. ~~Index spells.~~
 6. ~~Parse Class tags for Spells.~~
 7. ~~Apply class tags to spells index.~~
 4. ~~Procces equipment into JSON.~~
-5. ~~Map equipment.~~
 4. ~~Index equipment.~~
 4. ~~Procces items into JSON.~~
-5. ~~Map items.~~
 4. ~~Index items.~~
-6. Map Class abilities.
-7. Map Race abilities.
-5. Procces class and race abilities into JSON.
-5. Index class and race abilities.
+6. Classed as JSON.
+7. ~~Races as JSON.~~
+5. Index class and race.
+7. ~~Backgrounds ans JSON.~~
+7. Index backgrounds.
 5. Setup React.
 5. Connect React with DRF.
 5. React authentication.
