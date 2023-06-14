@@ -16,7 +16,7 @@ class RegisterView(generics.CreateAPIView):
         if serializer.is_valid():
             user = serializer.save()
             token = get_token(user)
-            return Response({"token": token}, status=status.HTTP_201_CREATED)
+            return Response({"access_token": token, "user_id": user.pk, "user_name": user.username}, status=status.HTTP_201_CREATED)
         
         if "duplicate" in serializer.errors:
             return Response(serializer.errors, status=status.HTTP_409_CONFLICT)
@@ -30,8 +30,9 @@ class LoginView(generics.GenericAPIView):
         serializer = self.get_serializer(data = request.data)
         if serializer.is_valid():
             user = serializer.validated_data
+            print(type(user))
             token = get_token(user)
             
-            return Response({"token": token}, status=status.HTTP_202_ACCEPTED)
+            return Response({"access_token": token, "user_id": user.pk, "user_name": user.username}, status=status.HTTP_202_ACCEPTED)
         
         return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)
