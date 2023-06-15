@@ -51,5 +51,3 @@ class CreateView(generics.CreateAPIView):
         return Response({
             "character": character
         })
-
-    

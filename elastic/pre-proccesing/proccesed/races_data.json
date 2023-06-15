@@ -1,0 +1,106 @@
+[
+    {
+        "model": "search.race",
+        "pk": 1,
+        "fields": {
+            "en_name": "Dwarf",
+            "ru_name": "Дварф"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 2,
+        "fields": {
+            "en_name": "Hill Dwarf",
+            "ru_name": "Холмовой Дварф"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 3,
+        "fields": {
+            "en_name": "Elf",
+            "ru_name": "Эльф"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 4,
+        "fields": {
+            "en_name": "High Elf",
+            "ru_name": "Высокий Эльф"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 5,
+        "fields": {
+            "en_name": "Halfling",
+            "ru_name": "Полурослик"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 6,
+        "fields": {
+            "en_name": "Lightfoot",
+            "ru_name": "Легконогий"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 7,
+        "fields": {
+            "en_name": "Human",
+            "ru_name": "Человек"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 8,
+        "fields": {
+            "en_name": "Dragonborn",
+            "ru_name": "Драконорожденный"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 9,
+        "fields": {
+            "en_name": "Gnome",
+            "ru_name": "Гном"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 10,
+        "fields": {
+            "en_name": "Rock Gnome",
+            "ru_name": "Скальный Гном"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 11,
+        "fields": {
+            "en_name": "Half-elf",
+            "ru_name": "Полуэльф"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 12,
+        "fields": {
+            "en_name": "Half-orc",
+            "ru_name": "Полуорк"
+        }
+    },
+    {
+        "model": "search.race",
+        "pk": 13,
+        "fields": {
+            "en_name": "Thiefling",
+            "ru_name": "Тифлинг"
+        }
+    }
+]

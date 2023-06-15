@@ -7,6 +7,7 @@ from rest_framework.routers import DefaultRouter
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('auth/', include('users.urls')),
+    path('search/', include('search.urls')),
     path('character/', include('character.urls')),
 ]
 
