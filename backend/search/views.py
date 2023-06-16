@@ -16,7 +16,7 @@ class RaceListView(generics.ListAPIView):
 
     def get_queryset(self):
         races = Race.objects.all()
-        return Response(races)
+        return races
 
 class RaceDetailView (APIView):
     authentication_classes = (TokenAuthentication,)
