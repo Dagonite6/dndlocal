@@ -33,20 +33,23 @@ for key in data:
 
                     background["equipment"]["base"].append(temp)
             else:
-                background["equipment"]["choice"] = []
+                if not "choice" in background["equipment"]: 
+                    background["equipment"]["choice"] = []
                 for choice in item[group]:
                     temp2 = {}
                     if "item" in choice:
                         temp2["name"] = choice["item"].title()
                     if "special" in choice:
                         temp2["name"] = choice["special"].title()
+                    if "displayName" in choice:
+                        temp2["name"] = choice["displayName"].title()
                     if "quantity" in choice:
                         temp2["quantity"] = choice["quantity"]
                     if "containsValue" in choice:
                         temp2["value"] = choice["containsValue"]  
                     if "equipmentType" in choice:
-                        temp2["equipmentType"] = choice["equipmentType"] 
-                    background["equipment"]["choice"].append(temp2)           
+                        temp2["equipmentType"] = choice["equipmentType"]
+                    background["equipment"]["choice"].append(temp2)      
     background["content"] = {"title": key["entries"][1]["name"]}
     background["content"]['text'] = key["entries"][1]["entries"]
     proccesed.append(background)

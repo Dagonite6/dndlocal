@@ -59,8 +59,8 @@ localhost/character<ID>
 5. Index class and race.
 7. ~~Backgrounds ans JSON.~~
 7. Index backgrounds.
-5. Setup React.
-5. Connect React with DRF.
-5. React authentication.
+5. ~~Setup React.~~
+5. ~~Connect React with DRF.~~
+5. ~~React authentication.~~
 
 # elastic 

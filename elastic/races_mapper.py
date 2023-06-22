@@ -7,8 +7,9 @@ mapping = {
             "spell":{
                 "properties": {
                     "race_name": {"type": "keyword"},
-                    "speed":{"type": "byte"},
-                    "size": {"type": "keyword"},
+                    "age":{"type": "text"},
+                    "size": {"type": "text"},
+                    "lore": {"type": "text"},
                     "languages": {"type": "keyword"},
 
                 }
